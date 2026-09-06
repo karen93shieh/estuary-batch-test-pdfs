@@ -18,7 +18,7 @@ URL during testing. Everything is fictional and machine-generated.
 URL pattern:
 
 ```
-https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/001-torvald-ashgrove.pdf
+https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/001-torvald-norwood.pdf
 ```
 
 ## What is in each PDF
