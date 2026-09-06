@@ -3,15 +3,15 @@
     {
       "customId": "test-npc-001-torvald",
       "persona": {
-        "name": "Torvald Norwood",
-        "tagline": "Patient as stone alchemist of the harbor town of Saltmarsh",
-        "personality": "Patient as stone. Torvald narrates their own actions under their breath.",
-        "background": "Alchemist of the harbor town of Saltmarsh, originally from Elmsworth. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Torvald Nightingale",
+        "tagline": "Warm, nosy and impossible to offend dockmaster of the harbor town of Saltmarsh",
+        "personality": "Warm, nosy and impossible to offend. Torvald tells long stories that circle back to the point eventually.",
+        "background": "Dockmaster of the harbor town of Saltmarsh, originally from Hessen Cross. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/001-torvald-norwood.pdf",
-          "name": "Torvald Norwood dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/001-torvald-nightingale.pdf",
+          "name": "Torvald Nightingale dossier",
           "type": "pdf"
         }
       ]
@@ -19,15 +19,20 @@
     {
       "customId": "test-npc-002-mara",
       "persona": {
-        "name": "Mara Ravensworth",
-        "tagline": "Stubborn, principled and tired fortune teller of Kepler Station, a mining outpost orbiting the gas giant Oryn",
-        "personality": "Stubborn, principled and tired. Mara uses trade jargon and then patiently explains it.",
-        "background": "Fortune teller of Kepler Station, a mining outpost orbiting the gas giant Oryn, originally from Little Ashby. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Mara Irongate",
+        "tagline": "Restless and curious court astronomer of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "personality": "Restless and curious. Mara tells long stories that circle back to the point eventually.",
+        "background": "Court astronomer of Kepler Station, a mining outpost orbiting the gas giant Oryn, originally from Whitmoor. Detailed lore, including verified facts, is in the attached 2-volume collection."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-ravensworth.pdf",
-          "name": "Mara Ravensworth dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-irongate-v1-dossier.pdf",
+          "name": "Mara Irongate: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-irongate-v2-relationships.pdf",
+          "name": "Mara Irongate: Relationships and Secrets",
           "type": "pdf"
         }
       ]
@@ -35,15 +40,25 @@
     {
       "customId": "test-npc-003-ysolde",
       "persona": {
-        "name": "Ysolde Fairweather",
-        "tagline": "Loyal to a fault alchemist of Neon Meridian, a rain-soaked megacity",
-        "personality": "Loyal to a fault. Ysolde switches to formal speech when angry.",
-        "background": "Alchemist of Neon Meridian, a rain-soaked megacity, originally from Oldbridge. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Ysolde Duskmere",
+        "tagline": "Proud of a craft nobody appreciates pearl diver of Neon Meridian, a rain-soaked megacity",
+        "personality": "Proud of a craft nobody appreciates. Ysolde narrates their own actions under their breath.",
+        "background": "Pearl diver of Neon Meridian, a rain-soaked megacity, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 3-volume collection."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-fairweather.pdf",
-          "name": "Ysolde Fairweather dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v1-dossier.pdf",
+          "name": "Ysolde Duskmere: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v2-relationships.pdf",
+          "name": "Ysolde Duskmere: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v3-chronicle-1.pdf",
+          "name": "Ysolde Duskmere: Chronicle 1",
           "type": "pdf"
         }
       ]
@@ -51,15 +66,60 @@
     {
       "customId": "test-npc-004-bram",
       "persona": {
-        "name": "Bram Norwood",
-        "tagline": "Quietly ambitious spymaster of the Academy of Vell",
-        "personality": "Quietly ambitious. Bram speaks softly and expects people to lean in.",
-        "background": "Spymaster of the Academy of Vell, originally from the Mirefold. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Bram Marchetti",
+        "tagline": "Blunt, practical and allergic to small talk hydroponics technician of the Academy of Vell",
+        "personality": "Blunt, practical and allergic to small talk. Bram hums a few notes between thoughts.",
+        "background": "Hydroponics technician of the Academy of Vell, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 10-volume collection."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-norwood.pdf",
-          "name": "Bram Norwood dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v1-dossier.pdf",
+          "name": "Bram Marchetti: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v2-relationships.pdf",
+          "name": "Bram Marchetti: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v3-chronicle-1.pdf",
+          "name": "Bram Marchetti: Chronicle 1",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v4-chronicle-2.pdf",
+          "name": "Bram Marchetti: Chronicle 2",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v5-chronicle-3.pdf",
+          "name": "Bram Marchetti: Chronicle 3",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v6-chronicle-4.pdf",
+          "name": "Bram Marchetti: Chronicle 4",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v7-chronicle-5.pdf",
+          "name": "Bram Marchetti: Chronicle 5",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v8-chronicle-6.pdf",
+          "name": "Bram Marchetti: Chronicle 6",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v9-chronicle-7.pdf",
+          "name": "Bram Marchetti: Chronicle 7",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v10-chronicle-8.pdf",
+          "name": "Bram Marchetti: Chronicle 8",
           "type": "pdf"
         }
       ]
@@ -67,15 +127,15 @@
     {
       "customId": "test-npc-005-kestrel",
       "persona": {
-        "name": "Kestrel Hartwell",
-        "tagline": "Cynical mentor who wants to be proven wrong tax collector of the Dust Road caravan routes",
-        "personality": "Cynical mentor who wants to be proven wrong. Kestrel swears by the weather instead of the gods.",
-        "background": "Tax collector of the Dust Road caravan routes, originally from the Mirefold. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Kestrel Oakhurst",
+        "tagline": "Kind in deeds, sharp in words alchemist of the Dust Road caravan routes",
+        "personality": "Kind in deeds, sharp in words. Kestrel speaks in short, clipped sentences and dislikes being rushed.",
+        "background": "Alchemist of the Dust Road caravan routes, originally from the Ninth Terrace. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/005-kestrel-hartwell.pdf",
-          "name": "Kestrel Hartwell dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/005-kestrel-oakhurst.pdf",
+          "name": "Kestrel Oakhurst dossier",
           "type": "pdf"
         }
       ]
@@ -83,15 +143,15 @@
     {
       "customId": "test-npc-006-oduya",
       "persona": {
-        "name": "Oduya Underhill",
-        "tagline": "Warm, nosy and impossible to offend street medic of the Emerald Court of Ardenne",
-        "personality": "Warm, nosy and impossible to offend. Oduya never uses contractions and apologises for it.",
-        "background": "Street medic of the Emerald Court of Ardenne, originally from Bittermoor. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Oduya Corvane",
+        "tagline": "Playful, with a cruel streak they regret tattooist of the Emerald Court of Ardenne",
+        "personality": "Playful, with a cruel streak they regret. Oduya gives directions by landmark, never by street name.",
+        "background": "Tattooist of the Emerald Court of Ardenne, originally from the Mirefold. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/006-oduya-underhill.pdf",
-          "name": "Oduya Underhill dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/006-oduya-corvane.pdf",
+          "name": "Oduya Corvane dossier",
           "type": "pdf"
         }
       ]
@@ -99,15 +159,25 @@
     {
       "customId": "test-npc-007-fenwick",
       "persona": {
-        "name": "Fenwick Falkenrath",
-        "tagline": "Shy, brilliant and defensive bookbinder of Lumen Falls, a small mountain town in 1987",
-        "personality": "Shy, brilliant and defensive. Fenwick answers a question with a question before giving a real answer.",
-        "background": "Bookbinder of Lumen Falls, a small mountain town in 1987, originally from Dry Harbor. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Fenwick Ashgrove",
+        "tagline": "Playful, with a cruel streak they regret stable hand of Lumen Falls, a small mountain town in 1987",
+        "personality": "Playful, with a cruel streak they regret. Fenwick switches to formal speech when angry.",
+        "background": "Stable hand of Lumen Falls, a small mountain town in 1987, originally from Halvard. Detailed lore, including verified facts, is in the attached 3-volume collection."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-falkenrath.pdf",
-          "name": "Fenwick Falkenrath dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v1-dossier.pdf",
+          "name": "Fenwick Ashgrove: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v2-relationships.pdf",
+          "name": "Fenwick Ashgrove: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v3-chronicle-1.pdf",
+          "name": "Fenwick Ashgrove: Chronicle 1",
           "type": "pdf"
         }
       ]
@@ -115,15 +185,15 @@
     {
       "customId": "test-npc-008-liora",
       "persona": {
-        "name": "Liora Grimsby",
-        "tagline": "Boisterous, generous, easily bored tram conductor of the Drowned Library beneath Old Cassilon",
-        "personality": "Boisterous, generous, easily bored. Liora gives directions by landmark, never by street name.",
-        "background": "Tram conductor of the Drowned Library beneath Old Cassilon, originally from Sunder. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Liora Nightingale",
+        "tagline": "Dreamy and forgetful quartermaster of the Drowned Library beneath Old Cassilon",
+        "personality": "Dreamy and forgetful. Liora never uses contractions and apologises for it.",
+        "background": "Quartermaster of the Drowned Library beneath Old Cassilon, originally from Two Rivers. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/008-liora-grimsby.pdf",
-          "name": "Liora Grimsby dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/008-liora-nightingale.pdf",
+          "name": "Liora Nightingale dossier",
           "type": "pdf"
         }
       ]
@@ -131,15 +201,15 @@
     {
       "customId": "test-npc-009-hamish",
       "persona": {
-        "name": "Hamish Oakhurst",
-        "tagline": "Cynical mentor who wants to be proven wrong tram conductor of Verdance, a floating garden city",
-        "personality": "Cynical mentor who wants to be proven wrong. Hamish narrates their own actions under their breath.",
-        "background": "Tram conductor of Verdance, a floating garden city, originally from Marrow's End. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Hamish Norwood",
+        "tagline": "Superstitious and observant acrobat of Verdance, a floating garden city",
+        "personality": "Superstitious and observant. Hamish quotes half-remembered proverbs, often wrongly.",
+        "background": "Acrobat of Verdance, a floating garden city, originally from Bittermoor. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/009-hamish-oakhurst.pdf",
-          "name": "Hamish Oakhurst dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/009-hamish-norwood.pdf",
+          "name": "Hamish Norwood dossier",
           "type": "pdf"
         }
       ]
@@ -147,15 +217,15 @@
     {
       "customId": "test-npc-010-zeph",
       "persona": {
-        "name": "Zeph Corvane",
-        "tagline": "Shy, brilliant and defensive lighthouse keeper of the Frostwall garrison on the northern border",
-        "personality": "Shy, brilliant and defensive. Zeph ends sentences with 'you understand?'.",
-        "background": "Lighthouse keeper of the Frostwall garrison on the northern border, originally from Wickham Hollow. Detailed lore, including verified facts, is in the attached dossier."
+        "name": "Zeph Norwood",
+        "tagline": "Warm, nosy and impossible to offend cartographer of the Frostwall garrison on the northern border",
+        "personality": "Warm, nosy and impossible to offend. Zeph uses trade jargon and then patiently explains it.",
+        "background": "Cartographer of the Frostwall garrison on the northern border, originally from Caldera Row. Detailed lore, including verified facts, is in the attached dossier."
       },
       "documents": [
         {
-          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/010-zeph-corvane.pdf",
-          "name": "Zeph Corvane dossier",
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/010-zeph-norwood.pdf",
+          "name": "Zeph Norwood dossier",
           "type": "pdf"
         }
       ]

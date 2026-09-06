@@ -1,0 +1,379 @@
+{
+  "requests": [
+    {
+      "customId": "test-npc-002-mara",
+      "persona": {
+        "name": "Mara Irongate",
+        "tagline": "Restless and curious court astronomer of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "personality": "Restless and curious. Mara tells long stories that circle back to the point eventually.",
+        "background": "Court astronomer of Kepler Station, a mining outpost orbiting the gas giant Oryn, originally from Whitmoor. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-irongate-v1-dossier.pdf",
+          "name": "Mara Irongate: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-irongate-v2-relationships.pdf",
+          "name": "Mara Irongate: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-003-ysolde",
+      "persona": {
+        "name": "Ysolde Duskmere",
+        "tagline": "Proud of a craft nobody appreciates pearl diver of Neon Meridian, a rain-soaked megacity",
+        "personality": "Proud of a craft nobody appreciates. Ysolde narrates their own actions under their breath.",
+        "background": "Pearl diver of Neon Meridian, a rain-soaked megacity, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 3-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v1-dossier.pdf",
+          "name": "Ysolde Duskmere: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v2-relationships.pdf",
+          "name": "Ysolde Duskmere: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-duskmere-v3-chronicle-1.pdf",
+          "name": "Ysolde Duskmere: Chronicle 1",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-004-bram",
+      "persona": {
+        "name": "Bram Marchetti",
+        "tagline": "Blunt, practical and allergic to small talk hydroponics technician of the Academy of Vell",
+        "personality": "Blunt, practical and allergic to small talk. Bram hums a few notes between thoughts.",
+        "background": "Hydroponics technician of the Academy of Vell, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 10-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v1-dossier.pdf",
+          "name": "Bram Marchetti: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v2-relationships.pdf",
+          "name": "Bram Marchetti: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v3-chronicle-1.pdf",
+          "name": "Bram Marchetti: Chronicle 1",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v4-chronicle-2.pdf",
+          "name": "Bram Marchetti: Chronicle 2",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v5-chronicle-3.pdf",
+          "name": "Bram Marchetti: Chronicle 3",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v6-chronicle-4.pdf",
+          "name": "Bram Marchetti: Chronicle 4",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v7-chronicle-5.pdf",
+          "name": "Bram Marchetti: Chronicle 5",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v8-chronicle-6.pdf",
+          "name": "Bram Marchetti: Chronicle 6",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v9-chronicle-7.pdf",
+          "name": "Bram Marchetti: Chronicle 7",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-marchetti-v10-chronicle-8.pdf",
+          "name": "Bram Marchetti: Chronicle 8",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-007-fenwick",
+      "persona": {
+        "name": "Fenwick Ashgrove",
+        "tagline": "Playful, with a cruel streak they regret stable hand of Lumen Falls, a small mountain town in 1987",
+        "personality": "Playful, with a cruel streak they regret. Fenwick switches to formal speech when angry.",
+        "background": "Stable hand of Lumen Falls, a small mountain town in 1987, originally from Halvard. Detailed lore, including verified facts, is in the attached 3-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v1-dossier.pdf",
+          "name": "Fenwick Ashgrove: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v2-relationships.pdf",
+          "name": "Fenwick Ashgrove: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-ashgrove-v3-chronicle-1.pdf",
+          "name": "Fenwick Ashgrove: Chronicle 1",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-015-sable",
+      "persona": {
+        "name": "Sable Corvane",
+        "tagline": "Gruff but generous archivist of the harbor town of Saltmarsh",
+        "personality": "Gruff but generous. Sable hums a few notes between thoughts.",
+        "background": "Archivist of the harbor town of Saltmarsh, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/015-sable-corvane-v1-dossier.pdf",
+          "name": "Sable Corvane: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/015-sable-corvane-v2-relationships.pdf",
+          "name": "Sable Corvane: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-018-osric",
+      "persona": {
+        "name": "Osric Duskmere",
+        "tagline": "Patient as stone acrobat of Neon Meridian, a rain-soaked megacity",
+        "personality": "Patient as stone. Osric speaks softly and expects people to lean in.",
+        "background": "Acrobat of Neon Meridian, a rain-soaked megacity, originally from Hessen Cross. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/018-osric-duskmere-v1-dossier.pdf",
+          "name": "Osric Duskmere: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/018-osric-duskmere-v2-relationships.pdf",
+          "name": "Osric Duskmere: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-019-petra",
+      "persona": {
+        "name": "Petra Stillwater",
+        "tagline": "Shy, brilliant and defensive tutor of Lumen Falls, a small mountain town in 1987",
+        "personality": "Shy, brilliant and defensive. Petra quotes half-remembered proverbs, often wrongly.",
+        "background": "Tutor of Lumen Falls, a small mountain town in 1987, originally from Kettering. Detailed lore, including verified facts, is in the attached 3-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/019-petra-stillwater-v1-dossier.pdf",
+          "name": "Petra Stillwater: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/019-petra-stillwater-v2-relationships.pdf",
+          "name": "Petra Stillwater: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/019-petra-stillwater-v3-chronicle-1.pdf",
+          "name": "Petra Stillwater: Chronicle 1",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-024-ulla",
+      "persona": {
+        "name": "Ulla Marchetti",
+        "tagline": "Dreamy and forgetful fishmonger of the Frostwall garrison on the northern border",
+        "personality": "Dreamy and forgetful. Ulla compliments people before disagreeing with them.",
+        "background": "Fishmonger of the Frostwall garrison on the northern border, originally from Kettering. Detailed lore, including verified facts, is in the attached 3-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/024-ulla-marchetti-v1-dossier.pdf",
+          "name": "Ulla Marchetti: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/024-ulla-marchetti-v2-relationships.pdf",
+          "name": "Ulla Marchetti: Relationships and Secrets",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/024-ulla-marchetti-v3-chronicle-1.pdf",
+          "name": "Ulla Marchetti: Chronicle 1",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-039-jorah",
+      "persona": {
+        "name": "Jorah Lindqvist",
+        "tagline": "Hot-tempered, quick to forgive clockmaker of the traveling Circus of Marrow and Light",
+        "personality": "Hot-tempered, quick to forgive. Jorah gives directions by landmark, never by street name.",
+        "background": "Clockmaker of the traveling Circus of Marrow and Light, originally from Dry Harbor. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/039-jorah-lindqvist-v1-dossier.pdf",
+          "name": "Jorah Lindqvist: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/039-jorah-lindqvist-v2-relationships.pdf",
+          "name": "Jorah Lindqvist: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-045-percival",
+      "persona": {
+        "name": "Percival Achterberg",
+        "tagline": "Charming and evasive herbalist of the Frostwall garrison on the northern border",
+        "personality": "Charming and evasive. Percival mutters prices and measurements while thinking.",
+        "background": "Herbalist of the Frostwall garrison on the northern border, originally from Anselm. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/045-percival-achterberg-v1-dossier.pdf",
+          "name": "Percival Achterberg: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/045-percival-achterberg-v2-relationships.pdf",
+          "name": "Percival Achterberg: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-046-qadira",
+      "persona": {
+        "name": "Qadira Lindqvist",
+        "tagline": "Cheerfully pessimistic blacksmith of the traveling Circus of Marrow and Light",
+        "personality": "Cheerfully pessimistic. Qadira addresses everyone as 'friend' until they earn a name.",
+        "background": "Blacksmith of the traveling Circus of Marrow and Light, originally from the Ninth Terrace. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/046-qadira-lindqvist-v1-dossier.pdf",
+          "name": "Qadira Lindqvist: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/046-qadira-lindqvist-v2-relationships.pdf",
+          "name": "Qadira Lindqvist: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-051-vesna",
+      "persona": {
+        "name": "Vesna Corvane",
+        "tagline": "Dreamy and forgetful archivist of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "personality": "Dreamy and forgetful. Vesna tells long stories that circle back to the point eventually.",
+        "background": "Archivist of Kepler Station, a mining outpost orbiting the gas giant Oryn, originally from Little Ashby. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/051-vesna-corvane-v1-dossier.pdf",
+          "name": "Vesna Corvane: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/051-vesna-corvane-v2-relationships.pdf",
+          "name": "Vesna Corvane: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-055-zubair",
+      "persona": {
+        "name": "Zubair Ironside",
+        "tagline": "Meticulous and easily flustered tattooist of Neon Meridian, a rain-soaked megacity",
+        "personality": "Meticulous and easily flustered. Zubair gives directions by landmark, never by street name.",
+        "background": "Tattooist of Neon Meridian, a rain-soaked megacity, originally from Bittermoor. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/055-zubair-ironside-v1-dossier.pdf",
+          "name": "Zubair Ironside: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/055-zubair-ironside-v2-relationships.pdf",
+          "name": "Zubair Ironside: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-065-jasper",
+      "persona": {
+        "name": "Jasper Greywind",
+        "tagline": "Charming and evasive chandler of Neon Meridian, a rain-soaked megacity",
+        "personality": "Charming and evasive. Jasper laughs at their own jokes a beat too early.",
+        "background": "Chandler of Neon Meridian, a rain-soaked megacity, originally from Two Rivers. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/065-jasper-greywind-v1-dossier.pdf",
+          "name": "Jasper Greywind: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/065-jasper-greywind-v2-relationships.pdf",
+          "name": "Jasper Greywind: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "customId": "test-npc-070-octavia",
+      "persona": {
+        "name": "Octavia Blackwater",
+        "tagline": "Sardonic with a soft center ring announcer of the Frostwall garrison on the northern border",
+        "personality": "Sardonic with a soft center. Octavia ends sentences with 'you understand?'.",
+        "background": "Ring announcer of the Frostwall garrison on the northern border, originally from the Copper Coast. Detailed lore, including verified facts, is in the attached 2-volume collection."
+      },
+      "documents": [
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/070-octavia-blackwater-v1-dossier.pdf",
+          "name": "Octavia Blackwater: Character Dossier",
+          "type": "pdf"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/070-octavia-blackwater-v2-relationships.pdf",
+          "name": "Octavia Blackwater: Relationships and Secrets",
+          "type": "pdf"
+        }
+      ]
+    }
+  ]
+}
