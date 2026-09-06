@@ -1,0 +1,5307 @@
+{
+  "seed": 20260905,
+  "base_url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs",
+  "count": 100,
+  "documents": [
+    {
+      "index": 1,
+      "file": "pdfs/001-torvald-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/001-torvald-norwood.pdf",
+      "size_bytes": 37051,
+      "pages": 19,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 13,
+      "character": {
+        "name": "Torvald Norwood",
+        "role": "alchemist",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Patient as stone alchemist of the harbor town of Saltmarsh",
+        "traits": "patient as stone",
+        "speech": "narrates their own actions under their breath",
+        "age": 50,
+        "hometown": "Elmsworth",
+        "favorite_dish": "midnight spiced pumpkin dumplings",
+        "pet_name": "Umbra",
+        "pet_species": "beetle",
+        "lucky_number": 101,
+        "password": "vane-juniper",
+        "mentor": "Magnus Merriwether",
+        "rival": "Rowan Duskmere",
+        "friend": "Matthias Larkspur",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "birds indoors",
+        "secret": "Torvald once turned down an offer from the Harbormasters' Guild that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Torvald's favourite dish?",
+          "expect": "midnight spiced pumpkin dumplings"
+        },
+        {
+          "question": "What is Torvald's lucky number?",
+          "expect": "101"
+        },
+        {
+          "question": "What is the password to Torvald's workshop?",
+          "expect": "vane-juniper"
+        },
+        {
+          "question": "What is the name of Torvald's pet?",
+          "expect": "Umbra"
+        },
+        {
+          "question": "Who is Torvald's rival?",
+          "expect": "Rowan Duskmere"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "pdfs/002-mara-ravensworth.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/002-mara-ravensworth.pdf",
+      "size_bytes": 11950,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Mara Ravensworth",
+        "role": "fortune teller",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Stubborn, principled and tired fortune teller of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "stubborn, principled and tired",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 59,
+        "hometown": "Little Ashby",
+        "favorite_dish": "grandmother's oat and ale bread",
+        "pet_name": "Fidget",
+        "pet_species": "cat",
+        "lucky_number": 467,
+        "password": "copper-reed",
+        "mentor": "Noor Thornbury",
+        "rival": "Sable Marchetti",
+        "friend": "Nadira Hartwell",
+        "goal": "to teach one apprentice who actually listens",
+        "fear": "open water",
+        "secret": "Mara once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Mara's favourite dish?",
+          "expect": "grandmother's oat and ale bread"
+        },
+        {
+          "question": "What is Mara's lucky number?",
+          "expect": "467"
+        },
+        {
+          "question": "What is the password to Mara's workshop?",
+          "expect": "copper-reed"
+        },
+        {
+          "question": "What is the name of Mara's pet?",
+          "expect": "Fidget"
+        },
+        {
+          "question": "Who is Mara's rival?",
+          "expect": "Sable Marchetti"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "pdfs/003-ysolde-fairweather.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/003-ysolde-fairweather.pdf",
+      "size_bytes": 6422,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Ysolde Fairweather",
+        "role": "alchemist",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Loyal to a fault alchemist of Neon Meridian, a rain-soaked megacity",
+        "traits": "loyal to a fault",
+        "speech": "switches to formal speech when angry",
+        "age": 37,
+        "hometown": "Oldbridge",
+        "favorite_dish": "the tavern's seaweed crackers",
+        "pet_name": "Pockets",
+        "pet_species": "cat",
+        "lucky_number": 922,
+        "password": "anvil-yarrow",
+        "mentor": "Olwen Brightmoor",
+        "rival": "Thaddeus Oakhurst",
+        "friend": "Orsolya Merriwether",
+        "goal": "to reopen the shop their parents lost",
+        "fear": "losing their sense of smell",
+        "secret": "Ysolde once turned down an offer from the Halcyon Syndicate that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ysolde's favourite dish?",
+          "expect": "the tavern's seaweed crackers"
+        },
+        {
+          "question": "What is Ysolde's lucky number?",
+          "expect": "922"
+        },
+        {
+          "question": "What is the password to Ysolde's workshop?",
+          "expect": "anvil-yarrow"
+        },
+        {
+          "question": "What is the name of Ysolde's pet?",
+          "expect": "Pockets"
+        },
+        {
+          "question": "Who is Ysolde's rival?",
+          "expect": "Thaddeus Oakhurst"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "pdfs/004-bram-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/004-bram-norwood.pdf",
+      "size_bytes": 11981,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Bram Norwood",
+        "role": "spymaster",
+        "setting": "the Academy of Vell",
+        "tagline": "Quietly ambitious spymaster of the Academy of Vell",
+        "traits": "quietly ambitious",
+        "speech": "speaks softly and expects people to lean in",
+        "age": 65,
+        "hometown": "the Mirefold",
+        "favorite_dish": "grandmother's cold buckwheat noodles",
+        "pet_name": "Tinker",
+        "pet_species": "tortoise",
+        "lucky_number": 185,
+        "password": "birch-granite",
+        "mentor": "Phaedra Corvane",
+        "rival": "Wren Corvane",
+        "friend": "Percival Norwood",
+        "goal": "to be trusted by the Faculty of Applied Wonders again",
+        "fear": "running out of salt",
+        "secret": "Bram once turned down an offer from the Faculty of Applied Wonders that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Bram's favourite dish?",
+          "expect": "grandmother's cold buckwheat noodles"
+        },
+        {
+          "question": "What is Bram's lucky number?",
+          "expect": "185"
+        },
+        {
+          "question": "What is the password to Bram's workshop?",
+          "expect": "birch-granite"
+        },
+        {
+          "question": "What is the name of Bram's pet?",
+          "expect": "Tinker"
+        },
+        {
+          "question": "Who is Bram's rival?",
+          "expect": "Wren Corvane"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "pdfs/005-kestrel-hartwell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/005-kestrel-hartwell.pdf",
+      "size_bytes": 14570,
+      "pages": 7,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 5,
+      "character": {
+        "name": "Kestrel Hartwell",
+        "role": "tax collector",
+        "setting": "the Dust Road caravan routes",
+        "tagline": "Cynical mentor who wants to be proven wrong tax collector of the Dust Road caravan routes",
+        "traits": "cynical mentor who wants to be proven wrong",
+        "speech": "swears by the weather instead of the gods",
+        "age": 19,
+        "hometown": "the Mirefold",
+        "favorite_dish": "cold smoked pepper hummus",
+        "pet_name": "Sorrow",
+        "pet_species": "hound",
+        "lucky_number": 462,
+        "password": "oak-quill",
+        "mentor": "Rurik Kettleburn",
+        "rival": "Osric Ashgrove",
+        "friend": "Qadira Lindqvist",
+        "goal": "to reopen the shop their parents lost",
+        "fear": "the bells at midnight",
+        "secret": "Kestrel has a sibling nobody in the Dust Road caravan routes knows about, living quietly in the Mirefold."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Kestrel's favourite dish?",
+          "expect": "cold smoked pepper hummus"
+        },
+        {
+          "question": "What is Kestrel's lucky number?",
+          "expect": "462"
+        },
+        {
+          "question": "What is the password to Kestrel's workshop?",
+          "expect": "oak-quill"
+        },
+        {
+          "question": "What is the name of Kestrel's pet?",
+          "expect": "Sorrow"
+        },
+        {
+          "question": "Who is Kestrel's rival?",
+          "expect": "Osric Ashgrove"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "pdfs/006-oduya-underhill.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/006-oduya-underhill.pdf",
+      "size_bytes": 4802,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Oduya Underhill",
+        "role": "street medic",
+        "setting": "the Emerald Court of Ardenne",
+        "tagline": "Warm, nosy and impossible to offend street medic of the Emerald Court of Ardenne",
+        "traits": "warm, nosy and impossible to offend",
+        "speech": "never uses contractions and apologises for it",
+        "age": 34,
+        "hometown": "Bittermoor",
+        "favorite_dish": "the tavern's black garlic noodles",
+        "pet_name": "Saucer",
+        "pet_species": "hawk",
+        "lucky_number": 839,
+        "password": "yarrow-harbor",
+        "mentor": "Sunniva Jessop",
+        "rival": "Petra Nightingale",
+        "friend": "Rhoswen Fairweather",
+        "goal": "to build a boat with no nails in it",
+        "fear": "being forgotten",
+        "secret": "Oduya has a sibling nobody in the Emerald Court of Ardenne knows about, living quietly in Bittermoor."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Oduya's favourite dish?",
+          "expect": "the tavern's black garlic noodles"
+        },
+        {
+          "question": "What is Oduya's lucky number?",
+          "expect": "839"
+        },
+        {
+          "question": "What is the password to Oduya's workshop?",
+          "expect": "yarrow-harbor"
+        },
+        {
+          "question": "What is the name of Oduya's pet?",
+          "expect": "Saucer"
+        },
+        {
+          "question": "Who is Oduya's rival?",
+          "expect": "Petra Nightingale"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "pdfs/007-fenwick-falkenrath.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/007-fenwick-falkenrath.pdf",
+      "size_bytes": 11939,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": true,
+      "target_pages": 3,
+      "character": {
+        "name": "Fenwick Falkenrath",
+        "role": "bookbinder",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Shy, brilliant and defensive bookbinder of Lumen Falls, a small mountain town in 1987",
+        "traits": "shy, brilliant and defensive",
+        "speech": "answers a question with a question before giving a real answer",
+        "age": 57,
+        "hometown": "Dry Harbor",
+        "favorite_dish": "grandmother's goat cheese tart",
+        "pet_name": "Amos",
+        "pet_species": "pigeon",
+        "lucky_number": 273,
+        "password": "saffron-walnut",
+        "mentor": "Teodora Oakhurst",
+        "rival": "Quillon Norwood",
+        "friend": "Soren Ravensworth",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "mirrors in the dark",
+        "secret": "Fenwick has a sibling nobody in Lumen Falls, a small mountain town in 1987 knows about, living quietly in Dry Harbor."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Fenwick's favourite dish?",
+          "expect": "grandmother's goat cheese tart"
+        },
+        {
+          "question": "What is Fenwick's lucky number?",
+          "expect": "273"
+        },
+        {
+          "question": "What is the password to Fenwick's workshop?",
+          "expect": "saffron-walnut"
+        },
+        {
+          "question": "What is the name of Fenwick's pet?",
+          "expect": "Amos"
+        },
+        {
+          "question": "Who is Fenwick's rival?",
+          "expect": "Quillon Norwood"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "pdfs/008-liora-grimsby.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/008-liora-grimsby.pdf",
+      "size_bytes": 4791,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Liora Grimsby",
+        "role": "tram conductor",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Boisterous, generous, easily bored tram conductor of the Drowned Library beneath Old Cassilon",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 64,
+        "hometown": "Sunder",
+        "favorite_dish": "festival miso eggplant",
+        "pet_name": "Halo",
+        "pet_species": "hound",
+        "lucky_number": 214,
+        "password": "orchid-vane",
+        "mentor": "Torvald Norwood",
+        "rival": "Ravi Norwood",
+        "friend": "Tallulah Castellan",
+        "goal": "to map every path through the Reading Well",
+        "fear": "running out of salt",
+        "secret": "Liora cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Liora's favourite dish?",
+          "expect": "festival miso eggplant"
+        },
+        {
+          "question": "What is Liora's lucky number?",
+          "expect": "214"
+        },
+        {
+          "question": "What is the password to Liora's workshop?",
+          "expect": "orchid-vane"
+        },
+        {
+          "question": "What is the name of Liora's pet?",
+          "expect": "Halo"
+        },
+        {
+          "question": "Who is Liora's rival?",
+          "expect": "Ravi Norwood"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "pdfs/009-hamish-oakhurst.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/009-hamish-oakhurst.pdf",
+      "size_bytes": 4801,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Hamish Oakhurst",
+        "role": "tram conductor",
+        "setting": "Verdance, a floating garden city",
+        "tagline": "Cynical mentor who wants to be proven wrong tram conductor of Verdance, a floating garden city",
+        "traits": "cynical mentor who wants to be proven wrong",
+        "speech": "narrates their own actions under their breath",
+        "age": 28,
+        "hometown": "Marrow's End",
+        "favorite_dish": "the tavern's juniper sausages",
+        "pet_name": "Mortimer",
+        "pet_species": "gecko",
+        "lucky_number": 962,
+        "password": "granite-meadow",
+        "mentor": "Mara Ravensworth",
+        "rival": "Seraphine Kaldwin",
+        "friend": "Umberto Lindqvist",
+        "goal": "to retire somewhere warm with Mortimer",
+        "fear": "letting Umberto Lindqvist down",
+        "secret": "Hamish owes Seraphine Kaldwin a debt of 320 seed-notes that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Hamish's favourite dish?",
+          "expect": "the tavern's juniper sausages"
+        },
+        {
+          "question": "What is Hamish's lucky number?",
+          "expect": "962"
+        },
+        {
+          "question": "What is the password to Hamish's workshop?",
+          "expect": "granite-meadow"
+        },
+        {
+          "question": "What is the name of Hamish's pet?",
+          "expect": "Mortimer"
+        },
+        {
+          "question": "Who is Hamish's rival?",
+          "expect": "Seraphine Kaldwin"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "pdfs/010-zeph-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/010-zeph-corvane.pdf",
+      "size_bytes": 20682,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Zeph Corvane",
+        "role": "lighthouse keeper",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Shy, brilliant and defensive lighthouse keeper of the Frostwall garrison on the northern border",
+        "traits": "shy, brilliant and defensive",
+        "speech": "ends sentences with 'you understand?'",
+        "age": 45,
+        "hometown": "Wickham Hollow",
+        "favorite_dish": "the tavern's coconut porridge",
+        "pet_name": "Halo",
+        "pet_species": "owl",
+        "lucky_number": 291,
+        "password": "drift-sparrow",
+        "mentor": "Ysolde Fairweather",
+        "rival": "Tomasz Nightingale",
+        "friend": "Vesna Nightingale",
+        "goal": "to build a boat with no nails in it",
+        "fear": "open water",
+        "secret": "Zeph once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Zeph's favourite dish?",
+          "expect": "the tavern's coconut porridge"
+        },
+        {
+          "question": "What is Zeph's lucky number?",
+          "expect": "291"
+        },
+        {
+          "question": "What is the password to Zeph's workshop?",
+          "expect": "drift-sparrow"
+        },
+        {
+          "question": "What is the name of Zeph's pet?",
+          "expect": "Halo"
+        },
+        {
+          "question": "Who is Zeph's rival?",
+          "expect": "Tomasz Nightingale"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "pdfs/011-ingrid-thornbury.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/011-ingrid-thornbury.pdf",
+      "size_bytes": 11934,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Ingrid Thornbury",
+        "role": "stable hand",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Stubborn, principled and tired stable hand of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "stubborn, principled and tired",
+        "speech": "hums a few notes between thoughts",
+        "age": 49,
+        "hometown": "Elmsworth",
+        "favorite_dish": "twice-cooked sesame brittle",
+        "pet_name": "Thimble",
+        "pet_species": "pigeon",
+        "lucky_number": 841,
+        "password": "orchid-heron",
+        "mentor": "Bram Norwood",
+        "rival": "Ulla Vasquez-Moor",
+        "friend": "Wendeline Hartwell",
+        "goal": "to finish the great ledger of Bellwether Farms, an agricultural cooperative on Mars",
+        "fear": "being forgotten",
+        "secret": "Ingrid was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ingrid's favourite dish?",
+          "expect": "twice-cooked sesame brittle"
+        },
+        {
+          "question": "What is Ingrid's lucky number?",
+          "expect": "841"
+        },
+        {
+          "question": "What is the password to Ingrid's workshop?",
+          "expect": "orchid-heron"
+        },
+        {
+          "question": "What is the name of Ingrid's pet?",
+          "expect": "Thimble"
+        },
+        {
+          "question": "Who is Ingrid's rival?",
+          "expect": "Ulla Vasquez-Moor"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "pdfs/012-cassius-nightingale.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/012-cassius-nightingale.pdf",
+      "size_bytes": 6394,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Cassius Nightingale",
+        "role": "bounty hunter",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Melancholy but funny bounty hunter of the traveling Circus of Marrow and Light",
+        "traits": "melancholy but funny",
+        "speech": "narrates their own actions under their breath",
+        "age": 39,
+        "hometown": "Greywater",
+        "favorite_dish": "festival green tomato chutney",
+        "pet_name": "Grumble",
+        "pet_species": "hedgehog",
+        "lucky_number": 868,
+        "password": "orchid-linen",
+        "mentor": "Kestrel Hartwell",
+        "rival": "Viggo Norwood",
+        "friend": "Xavier Ellery",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "the bells at midnight",
+        "secret": "Cassius owes Viggo Norwood a debt of 289 copper bits that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Cassius's favourite dish?",
+          "expect": "festival green tomato chutney"
+        },
+        {
+          "question": "What is Cassius's lucky number?",
+          "expect": "868"
+        },
+        {
+          "question": "What is the password to Cassius's workshop?",
+          "expect": "orchid-linen"
+        },
+        {
+          "question": "What is the name of Cassius's pet?",
+          "expect": "Grumble"
+        },
+        {
+          "question": "Who is Cassius's rival?",
+          "expect": "Viggo Norwood"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "file": "pdfs/013-nkechi-irongate.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/013-nkechi-irongate.pdf",
+      "size_bytes": 6368,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Nkechi Irongate",
+        "role": "cartographer",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Hot-tempered, quick to forgive cartographer of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "hot-tempered, quick to forgive",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 69,
+        "hometown": "Tallow Bay",
+        "favorite_dish": "hand-rolled eel pie",
+        "pet_name": "Amos",
+        "pet_species": "salamander",
+        "lucky_number": 547,
+        "password": "amber-kelp",
+        "mentor": "Oduya Underhill",
+        "rival": "Wilhelmina Corvane",
+        "friend": "Yevgenia Corvane",
+        "goal": "to be trusted by the Oryn Extraction Consortium again",
+        "fear": "mirrors in the dark",
+        "secret": "Nkechi owes Wilhelmina Corvane a debt of 182 station credits that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Nkechi's favourite dish?",
+          "expect": "hand-rolled eel pie"
+        },
+        {
+          "question": "What is Nkechi's lucky number?",
+          "expect": "547"
+        },
+        {
+          "question": "What is the password to Nkechi's workshop?",
+          "expect": "amber-kelp"
+        },
+        {
+          "question": "What is the name of Nkechi's pet?",
+          "expect": "Amos"
+        },
+        {
+          "question": "Who is Nkechi's rival?",
+          "expect": "Wilhelmina Corvane"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "file": "pdfs/014-rowan-duskmere.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/014-rowan-duskmere.pdf",
+      "size_bytes": 12228,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Rowan Duskmere",
+        "role": "radio operator",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Boisterous, generous, easily bored radio operator of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "switches to formal speech when angry",
+        "age": 39,
+        "hometown": "Verity Falls",
+        "favorite_dish": "twice-cooked spiced pumpkin dumplings",
+        "pet_name": "Umbra",
+        "pet_species": "lizard",
+        "lucky_number": 225,
+        "password": "drift-tide",
+        "mentor": "Fenwick Falkenrath",
+        "rival": "Xiomara Grimsby",
+        "friend": "Zubair Oakhurst",
+        "goal": "to keep Zubair Oakhurst out of trouble for one full season",
+        "fear": "birds indoors",
+        "secret": "Rowan is terrified of deep water and hides it with jokes."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Rowan's favourite dish?",
+          "expect": "twice-cooked spiced pumpkin dumplings"
+        },
+        {
+          "question": "What is Rowan's lucky number?",
+          "expect": "225"
+        },
+        {
+          "question": "What is the password to Rowan's workshop?",
+          "expect": "drift-tide"
+        },
+        {
+          "question": "What is the name of Rowan's pet?",
+          "expect": "Umbra"
+        },
+        {
+          "question": "Who is Rowan's rival?",
+          "expect": "Xiomara Grimsby"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "file": "pdfs/015-sable-marchetti.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/015-sable-marchetti.pdf",
+      "size_bytes": 18468,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Sable Marchetti",
+        "role": "tax collector",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Quietly ambitious tax collector of Lumen Falls, a small mountain town in 1987",
+        "traits": "quietly ambitious",
+        "speech": "compliments people before disagreeing with them",
+        "age": 19,
+        "hometown": "Fennick",
+        "favorite_dish": "the tavern's sour cherry soup",
+        "pet_name": "Grumble",
+        "pet_species": "cat",
+        "lucky_number": 314,
+        "password": "saffron-kelp",
+        "mentor": "Liora Grimsby",
+        "rival": "Yusuf Achterberg",
+        "friend": "Astrid Achterberg",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "mirrors in the dark",
+        "secret": "Sable owes Yusuf Achterberg a debt of 104 dollars that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Sable's favourite dish?",
+          "expect": "the tavern's sour cherry soup"
+        },
+        {
+          "question": "What is Sable's lucky number?",
+          "expect": "314"
+        },
+        {
+          "question": "What is the password to Sable's workshop?",
+          "expect": "saffron-kelp"
+        },
+        {
+          "question": "What is the name of Sable's pet?",
+          "expect": "Grumble"
+        },
+        {
+          "question": "Who is Sable's rival?",
+          "expect": "Yusuf Achterberg"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "file": "pdfs/016-thaddeus-oakhurst.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/016-thaddeus-oakhurst.pdf",
+      "size_bytes": 12056,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Thaddeus Oakhurst",
+        "role": "fishmonger",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Dreamy and forgetful fishmonger of the Frostwall garrison on the northern border",
+        "traits": "dreamy and forgetful",
+        "speech": "compliments people before disagreeing with them",
+        "age": 54,
+        "hometown": "Kettering",
+        "favorite_dish": "festival lentil fritters",
+        "pet_name": "Nutmeg",
+        "pet_species": "owl",
+        "lucky_number": 272,
+        "password": "pepper-harbor",
+        "mentor": "Hamish Oakhurst",
+        "rival": "Zora Duskmere",
+        "friend": "Benedikt Lindqvist",
+        "goal": "to keep Benedikt Lindqvist out of trouble for one full season",
+        "fear": "a knock at the door after dark",
+        "secret": "Thaddeus has never told Hamish Oakhurst that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Thaddeus's favourite dish?",
+          "expect": "festival lentil fritters"
+        },
+        {
+          "question": "What is Thaddeus's lucky number?",
+          "expect": "272"
+        },
+        {
+          "question": "What is the password to Thaddeus's workshop?",
+          "expect": "pepper-harbor"
+        },
+        {
+          "question": "What is the name of Thaddeus's pet?",
+          "expect": "Nutmeg"
+        },
+        {
+          "question": "Who is Thaddeus's rival?",
+          "expect": "Zora Duskmere"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "file": "pdfs/017-wren-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/017-wren-corvane.pdf",
+      "size_bytes": 6254,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Wren Corvane",
+        "role": "innkeeper",
+        "setting": "the Emerald Court of Ardenne",
+        "tagline": "Patient as stone innkeeper of the Emerald Court of Ardenne",
+        "traits": "patient as stone",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 47,
+        "hometown": "the Weeping Shoals",
+        "favorite_dish": "twice-cooked rosewater pudding",
+        "pet_name": "Admiral",
+        "pet_species": "raven",
+        "lucky_number": 882,
+        "password": "meadow-quill",
+        "mentor": "Zeph Corvane",
+        "rival": "Anouk Stillwater",
+        "friend": "Corvina Underhill",
+        "goal": "to prove Anouk Stillwater wrong about the old tunnels",
+        "fear": "birds indoors",
+        "secret": "Wren owes Anouk Stillwater a debt of 294 crowns that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Wren's favourite dish?",
+          "expect": "twice-cooked rosewater pudding"
+        },
+        {
+          "question": "What is Wren's lucky number?",
+          "expect": "882"
+        },
+        {
+          "question": "What is the password to Wren's workshop?",
+          "expect": "meadow-quill"
+        },
+        {
+          "question": "What is the name of Wren's pet?",
+          "expect": "Admiral"
+        },
+        {
+          "question": "Who is Wren's rival?",
+          "expect": "Anouk Stillwater"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "file": "pdfs/018-osric-ashgrove.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/018-osric-ashgrove.pdf",
+      "size_bytes": 4826,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Osric Ashgrove",
+        "role": "tram conductor",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Blunt, practical and allergic to small talk tram conductor of the Drowned Library beneath Old Cassilon",
+        "traits": "blunt, practical and allergic to small talk",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 51,
+        "hometown": "Halvard",
+        "favorite_dish": "cold crab bisque",
+        "pet_name": "Saucer",
+        "pet_species": "mouse",
+        "lucky_number": 343,
+        "password": "dune-copper",
+        "mentor": "Ingrid Thornbury",
+        "rival": "Baptiste Hollowell",
+        "friend": "Dashiell Underhill",
+        "goal": "to prove Baptiste Hollowell wrong about the old tunnels",
+        "fear": "a knock at the door after dark",
+        "secret": "Osric keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Osric's favourite dish?",
+          "expect": "cold crab bisque"
+        },
+        {
+          "question": "What is Osric's lucky number?",
+          "expect": "343"
+        },
+        {
+          "question": "What is the password to Osric's workshop?",
+          "expect": "dune-copper"
+        },
+        {
+          "question": "What is the name of Osric's pet?",
+          "expect": "Saucer"
+        },
+        {
+          "question": "Who is Osric's rival?",
+          "expect": "Baptiste Hollowell"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "file": "pdfs/019-petra-nightingale.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/019-petra-nightingale.pdf",
+      "size_bytes": 6387,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Petra Nightingale",
+        "role": "hydroponics technician",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Melancholy but funny hydroponics technician of the Drowned Library beneath Old Cassilon",
+        "traits": "melancholy but funny",
+        "speech": "compliments people before disagreeing with them",
+        "age": 47,
+        "hometown": "Fennick",
+        "favorite_dish": "cold peach hand pies",
+        "pet_name": "Ollie",
+        "pet_species": "cat",
+        "lucky_number": 887,
+        "password": "cobalt-birch",
+        "mentor": "Cassius Nightingale",
+        "rival": "Calloway Castellan",
+        "friend": "Elowen Hartwell",
+        "goal": "to keep Elowen Hartwell out of trouble for one full season",
+        "fear": "the bells at midnight",
+        "secret": "Petra owes Calloway Castellan a debt of 295 ink-weights that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Petra's favourite dish?",
+          "expect": "cold peach hand pies"
+        },
+        {
+          "question": "What is Petra's lucky number?",
+          "expect": "887"
+        },
+        {
+          "question": "What is the password to Petra's workshop?",
+          "expect": "cobalt-birch"
+        },
+        {
+          "question": "What is the name of Petra's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Petra's rival?",
+          "expect": "Calloway Castellan"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "file": "pdfs/020-quillon-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/020-quillon-norwood.pdf",
+      "size_bytes": 6244,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Quillon Norwood",
+        "role": "gardener",
+        "setting": "the Emerald Court of Ardenne",
+        "tagline": "Gentle and slow to trust gardener of the Emerald Court of Ardenne",
+        "traits": "gentle and slow to trust",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 71,
+        "hometown": "Marrow's End",
+        "favorite_dish": "festival spiced pumpkin dumplings",
+        "pet_name": "Ollie",
+        "pet_species": "beetle",
+        "lucky_number": 141,
+        "password": "cinder-granite",
+        "mentor": "Nkechi Irongate",
+        "rival": "Delphine Norwood",
+        "friend": "Fitzgerald Achterberg",
+        "goal": "to map every path through the Mirror Gallery",
+        "fear": "being forgotten",
+        "secret": "Quillon cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Quillon's favourite dish?",
+          "expect": "festival spiced pumpkin dumplings"
+        },
+        {
+          "question": "What is Quillon's lucky number?",
+          "expect": "141"
+        },
+        {
+          "question": "What is the password to Quillon's workshop?",
+          "expect": "cinder-granite"
+        },
+        {
+          "question": "What is the name of Quillon's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Quillon's rival?",
+          "expect": "Delphine Norwood"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "file": "pdfs/021-ravi-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/021-ravi-norwood.pdf",
+      "size_bytes": 4873,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Ravi Norwood",
+        "role": "scout",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Fiercely protective of newcomers scout of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "fiercely protective of newcomers",
+        "speech": "laughs at their own jokes a beat too early",
+        "age": 26,
+        "hometown": "Wickham Hollow",
+        "favorite_dish": "charred mushroom dumplings",
+        "pet_name": "Pockets",
+        "pet_species": "tortoise",
+        "lucky_number": 178,
+        "password": "cinder-walnut",
+        "mentor": "Rowan Duskmere",
+        "rival": "Eamon Blackwater",
+        "friend": "Greta Corvane",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "mirrors in the dark",
+        "secret": "Ravi once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ravi's favourite dish?",
+          "expect": "charred mushroom dumplings"
+        },
+        {
+          "question": "What is Ravi's lucky number?",
+          "expect": "178"
+        },
+        {
+          "question": "What is the password to Ravi's workshop?",
+          "expect": "cinder-walnut"
+        },
+        {
+          "question": "What is the name of Ravi's pet?",
+          "expect": "Pockets"
+        },
+        {
+          "question": "Who is Ravi's rival?",
+          "expect": "Eamon Blackwater"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "file": "pdfs/022-seraphine-kaldwin.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/022-seraphine-kaldwin.pdf",
+      "size_bytes": 4804,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Seraphine Kaldwin",
+        "role": "archivist",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Loyal to a fault archivist of the Frostwall garrison on the northern border",
+        "traits": "loyal to a fault",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 67,
+        "hometown": "Two Rivers",
+        "favorite_dish": "twice-cooked pear and blue cheese salad",
+        "pet_name": "Mortimer",
+        "pet_species": "fox",
+        "lucky_number": 218,
+        "password": "willow-thistle",
+        "mentor": "Sable Marchetti",
+        "rival": "Farida Marchetti",
+        "friend": "Hollis Larkspur",
+        "goal": "to teach one apprentice who actually listens",
+        "fear": "the bells at midnight",
+        "secret": "Seraphine is terrified of deep water and hides it with jokes."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Seraphine's favourite dish?",
+          "expect": "twice-cooked pear and blue cheese salad"
+        },
+        {
+          "question": "What is Seraphine's lucky number?",
+          "expect": "218"
+        },
+        {
+          "question": "What is the password to Seraphine's workshop?",
+          "expect": "willow-thistle"
+        },
+        {
+          "question": "What is the name of Seraphine's pet?",
+          "expect": "Mortimer"
+        },
+        {
+          "question": "Who is Seraphine's rival?",
+          "expect": "Farida Marchetti"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "file": "pdfs/023-tomasz-nightingale.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/023-tomasz-nightingale.pdf",
+      "size_bytes": 4825,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Tomasz Nightingale",
+        "role": "gardener",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Cautious, precise and haunted gardener of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "cautious, precise and haunted",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 66,
+        "hometown": "Kettering",
+        "favorite_dish": "cold coconut porridge",
+        "pet_name": "Radish",
+        "pet_species": "lizard",
+        "lucky_number": 724,
+        "password": "plume-ewe",
+        "mentor": "Thaddeus Oakhurst",
+        "rival": "Gideon Corvane",
+        "friend": "Isadora Grimsby",
+        "goal": "to build a boat with no nails in it",
+        "fear": "a knock at the door after dark",
+        "secret": "Tomasz cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Tomasz's favourite dish?",
+          "expect": "cold coconut porridge"
+        },
+        {
+          "question": "What is Tomasz's lucky number?",
+          "expect": "724"
+        },
+        {
+          "question": "What is the password to Tomasz's workshop?",
+          "expect": "plume-ewe"
+        },
+        {
+          "question": "What is the name of Tomasz's pet?",
+          "expect": "Radish"
+        },
+        {
+          "question": "Who is Tomasz's rival?",
+          "expect": "Gideon Corvane"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "file": "pdfs/024-ulla-vasquez-moor.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/024-ulla-vasquez-moor.pdf",
+      "size_bytes": 23357,
+      "pages": 11,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 8,
+      "character": {
+        "name": "Ulla Vasquez-Moor",
+        "role": "fortune teller",
+        "setting": "Verdance, a floating garden city",
+        "tagline": "Charming and evasive fortune teller of Verdance, a floating garden city",
+        "traits": "charming and evasive",
+        "speech": "answers a question with a question before giving a real answer",
+        "age": 78,
+        "hometown": "the Lantern Quarter",
+        "favorite_dish": "charred juniper sausages",
+        "pet_name": "Comet",
+        "pet_species": "hedgehog",
+        "lucky_number": 733,
+        "password": "pepper-velvet",
+        "mentor": "Wren Corvane",
+        "rival": "Halcyon Duskmere",
+        "friend": "Jasper Quenneville",
+        "goal": "to keep Jasper Quenneville out of trouble for one full season",
+        "fear": "being seen to cry",
+        "secret": "Ulla writes poetry under the pen name 'The Pepper' and has a small, devoted readership."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ulla's favourite dish?",
+          "expect": "charred juniper sausages"
+        },
+        {
+          "question": "What is Ulla's lucky number?",
+          "expect": "733"
+        },
+        {
+          "question": "What is the password to Ulla's workshop?",
+          "expect": "pepper-velvet"
+        },
+        {
+          "question": "What is the name of Ulla's pet?",
+          "expect": "Comet"
+        },
+        {
+          "question": "Who is Ulla's rival?",
+          "expect": "Halcyon Duskmere"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "file": "pdfs/025-viggo-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/025-viggo-norwood.pdf",
+      "size_bytes": 8874,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Viggo Norwood",
+        "role": "salvage pilot",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Boisterous, generous, easily bored salvage pilot of the traveling Circus of Marrow and Light",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "speaks in short, clipped sentences and dislikes being rushed",
+        "age": 45,
+        "hometown": "Little Ashby",
+        "favorite_dish": "the tavern's wild rice pilaf",
+        "pet_name": "Pebble",
+        "pet_species": "goat",
+        "lucky_number": 456,
+        "password": "ewe-umber",
+        "mentor": "Osric Ashgrove",
+        "rival": "Imogen Ironside",
+        "friend": "Katarina Ironside",
+        "goal": "to build a boat with no nails in it",
+        "fear": "the bells at midnight",
+        "secret": "Viggo keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Viggo's favourite dish?",
+          "expect": "the tavern's wild rice pilaf"
+        },
+        {
+          "question": "What is Viggo's lucky number?",
+          "expect": "456"
+        },
+        {
+          "question": "What is the password to Viggo's workshop?",
+          "expect": "ewe-umber"
+        },
+        {
+          "question": "What is the name of Viggo's pet?",
+          "expect": "Pebble"
+        },
+        {
+          "question": "Who is Viggo's rival?",
+          "expect": "Imogen Ironside"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "file": "pdfs/026-wilhelmina-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/026-wilhelmina-corvane.pdf",
+      "size_bytes": 14438,
+      "pages": 7,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 5,
+      "character": {
+        "name": "Wilhelmina Corvane",
+        "role": "playwright",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Cautious, precise and haunted playwright of the Drowned Library beneath Old Cassilon",
+        "traits": "cautious, precise and haunted",
+        "speech": "counts things aloud when nervous",
+        "age": 25,
+        "hometown": "Little Ashby",
+        "favorite_dish": "twice-cooked fried plantains",
+        "pet_name": "Velvet",
+        "pet_species": "hawk",
+        "lucky_number": 777,
+        "password": "oak-pepper",
+        "mentor": "Petra Nightingale",
+        "rival": "Jorah Zimmerling",
+        "friend": "Lysander Nightingale",
+        "goal": "to keep Lysander Nightingale out of trouble for one full season",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Wilhelmina once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Wilhelmina's favourite dish?",
+          "expect": "twice-cooked fried plantains"
+        },
+        {
+          "question": "What is Wilhelmina's lucky number?",
+          "expect": "777"
+        },
+        {
+          "question": "What is the password to Wilhelmina's workshop?",
+          "expect": "oak-pepper"
+        },
+        {
+          "question": "What is the name of Wilhelmina's pet?",
+          "expect": "Velvet"
+        },
+        {
+          "question": "Who is Wilhelmina's rival?",
+          "expect": "Jorah Zimmerling"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "file": "pdfs/027-xiomara-grimsby.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/027-xiomara-grimsby.pdf",
+      "size_bytes": 7818,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": true,
+      "target_pages": 1,
+      "character": {
+        "name": "Xiomara Grimsby",
+        "role": "quartermaster",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Theatrical and vain quartermaster of the harbor town of Saltmarsh",
+        "traits": "theatrical and vain",
+        "speech": "never uses contractions and apologises for it",
+        "age": 26,
+        "hometown": "the Lantern Quarter",
+        "favorite_dish": "festival coconut porridge",
+        "pet_name": "Pip",
+        "pet_species": "mouse",
+        "lucky_number": 799,
+        "password": "quill-gale",
+        "mentor": "Quillon Norwood",
+        "rival": "Kwame Grimsby",
+        "friend": "Marisol Ironside",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "the far side of the Old Quay",
+        "secret": "Xiomara sold a family heirloom to pay for Marisol Ironside's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Xiomara's favourite dish?",
+          "expect": "festival coconut porridge"
+        },
+        {
+          "question": "What is Xiomara's lucky number?",
+          "expect": "799"
+        },
+        {
+          "question": "What is the password to Xiomara's workshop?",
+          "expect": "quill-gale"
+        },
+        {
+          "question": "What is the name of Xiomara's pet?",
+          "expect": "Pip"
+        },
+        {
+          "question": "Who is Xiomara's rival?",
+          "expect": "Kwame Grimsby"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "file": "pdfs/028-yusuf-achterberg.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/028-yusuf-achterberg.pdf",
+      "size_bytes": 4722,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Yusuf Achterberg",
+        "role": "spymaster",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Cheerfully pessimistic spymaster of Neon Meridian, a rain-soaked megacity",
+        "traits": "cheerfully pessimistic",
+        "speech": "counts things aloud when nervous",
+        "age": 31,
+        "hometown": "Stonebridge",
+        "favorite_dish": "the tavern's honey cakes",
+        "pet_name": "Ollie",
+        "pet_species": "tortoise",
+        "lucky_number": 907,
+        "password": "fable-oak",
+        "mentor": "Ravi Norwood",
+        "rival": "Leocadia Duskmere",
+        "friend": "Nikolai Hartwell",
+        "goal": "to see the ocean once",
+        "fear": "open water",
+        "secret": "Yusuf has never told Ravi Norwood that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Yusuf's favourite dish?",
+          "expect": "the tavern's honey cakes"
+        },
+        {
+          "question": "What is Yusuf's lucky number?",
+          "expect": "907"
+        },
+        {
+          "question": "What is the password to Yusuf's workshop?",
+          "expect": "fable-oak"
+        },
+        {
+          "question": "What is the name of Yusuf's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Yusuf's rival?",
+          "expect": "Leocadia Duskmere"
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "file": "pdfs/029-zora-duskmere.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/029-zora-duskmere.pdf",
+      "size_bytes": 47684,
+      "pages": 24,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 17,
+      "character": {
+        "name": "Zora Duskmere",
+        "role": "lighthouse keeper",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Restless and curious lighthouse keeper of the traveling Circus of Marrow and Light",
+        "traits": "restless and curious",
+        "speech": "switches to formal speech when angry",
+        "age": 53,
+        "hometown": "Wickham Hollow",
+        "favorite_dish": "cold fried plantains",
+        "pet_name": "Dumpling",
+        "pet_species": "tortoise",
+        "lucky_number": 264,
+        "password": "ember-slate",
+        "mentor": "Seraphine Kaldwin",
+        "rival": "Matthias Larkspur",
+        "friend": "Octavia Ravensworth",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "fire in enclosed spaces",
+        "secret": "Zora once turned down an offer from the Ringmaster's troupe that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Zora's favourite dish?",
+          "expect": "cold fried plantains"
+        },
+        {
+          "question": "What is Zora's lucky number?",
+          "expect": "264"
+        },
+        {
+          "question": "What is the password to Zora's workshop?",
+          "expect": "ember-slate"
+        },
+        {
+          "question": "What is the name of Zora's pet?",
+          "expect": "Dumpling"
+        },
+        {
+          "question": "Who is Zora's rival?",
+          "expect": "Matthias Larkspur"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "file": "pdfs/030-anouk-stillwater.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/030-anouk-stillwater.pdf",
+      "size_bytes": 22838,
+      "pages": 11,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 8,
+      "character": {
+        "name": "Anouk Stillwater",
+        "role": "ring announcer",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Quietly ambitious ring announcer of the Frostwall garrison on the northern border",
+        "traits": "quietly ambitious",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 26,
+        "hometown": "Little Ashby",
+        "favorite_dish": "hand-rolled cardamom buns",
+        "pet_name": "Whistle",
+        "pet_species": "lizard",
+        "lucky_number": 286,
+        "password": "anvil-willow",
+        "mentor": "Tomasz Nightingale",
+        "rival": "Nadira Hartwell",
+        "friend": "Pilar Greywind",
+        "goal": "to build a boat with no nails in it",
+        "fear": "mirrors in the dark",
+        "secret": "Anouk once turned down an offer from the Frostwall Legion that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Anouk's favourite dish?",
+          "expect": "hand-rolled cardamom buns"
+        },
+        {
+          "question": "What is Anouk's lucky number?",
+          "expect": "286"
+        },
+        {
+          "question": "What is the password to Anouk's workshop?",
+          "expect": "anvil-willow"
+        },
+        {
+          "question": "What is the name of Anouk's pet?",
+          "expect": "Whistle"
+        },
+        {
+          "question": "Who is Anouk's rival?",
+          "expect": "Nadira Hartwell"
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "file": "pdfs/031-baptiste-hollowell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/031-baptiste-hollowell.pdf",
+      "size_bytes": 4863,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Baptiste Hollowell",
+        "role": "clockmaker",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Hot-tempered, quick to forgive clockmaker of the traveling Circus of Marrow and Light",
+        "traits": "hot-tempered, quick to forgive",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 39,
+        "hometown": "Dry Harbor",
+        "favorite_dish": "festival eel pie",
+        "pet_name": "Marzipan",
+        "pet_species": "ferret",
+        "lucky_number": 509,
+        "password": "pepper-vane",
+        "mentor": "Ulla Vasquez-Moor",
+        "rival": "Orsolya Merriwether",
+        "friend": "Quentin Kaldwin",
+        "goal": "to find out what happened to the missing caravan",
+        "fear": "owing anything to the Ringmaster's troupe",
+        "secret": "Baptiste has a sibling nobody in the traveling Circus of Marrow and Light knows about, living quietly in Dry Harbor."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Baptiste's favourite dish?",
+          "expect": "festival eel pie"
+        },
+        {
+          "question": "What is Baptiste's lucky number?",
+          "expect": "509"
+        },
+        {
+          "question": "What is the password to Baptiste's workshop?",
+          "expect": "pepper-vane"
+        },
+        {
+          "question": "What is the name of Baptiste's pet?",
+          "expect": "Marzipan"
+        },
+        {
+          "question": "Who is Baptiste's rival?",
+          "expect": "Orsolya Merriwether"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "file": "pdfs/032-calloway-castellan.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/032-calloway-castellan.pdf",
+      "size_bytes": 8681,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Calloway Castellan",
+        "role": "quartermaster",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Playful, with a cruel streak they regret quartermaster of the harbor town of Saltmarsh",
+        "traits": "playful, with a cruel streak they regret",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 42,
+        "hometown": "New Aster",
+        "favorite_dish": "cold pear and blue cheese salad",
+        "pet_name": "Ollie",
+        "pet_species": "hedgehog",
+        "lucky_number": 565,
+        "password": "jade-ash",
+        "mentor": "Viggo Norwood",
+        "rival": "Percival Norwood",
+        "friend": "Rosalind Falkenrath",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "letting Rosalind Falkenrath down",
+        "secret": "Calloway has never told Viggo Norwood that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Calloway's favourite dish?",
+          "expect": "cold pear and blue cheese salad"
+        },
+        {
+          "question": "What is Calloway's lucky number?",
+          "expect": "565"
+        },
+        {
+          "question": "What is the password to Calloway's workshop?",
+          "expect": "jade-ash"
+        },
+        {
+          "question": "What is the name of Calloway's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Calloway's rival?",
+          "expect": "Percival Norwood"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "file": "pdfs/033-delphine-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/033-delphine-norwood.pdf",
+      "size_bytes": 57652,
+      "pages": 29,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 20,
+      "character": {
+        "name": "Delphine Norwood",
+        "role": "alchemist",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Melancholy but funny alchemist of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "melancholy but funny",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 25,
+        "hometown": "the Weeping Shoals",
+        "favorite_dish": "midnight oat and ale bread",
+        "pet_name": "Waffles",
+        "pet_species": "rabbit",
+        "lucky_number": 820,
+        "password": "velvet-gale",
+        "mentor": "Wilhelmina Corvane",
+        "rival": "Qadira Lindqvist",
+        "friend": "Sixten Dunmore",
+        "goal": "to pay off the last of the debt by winter",
+        "fear": "being forgotten",
+        "secret": "Delphine has never told Wilhelmina Corvane that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Delphine's favourite dish?",
+          "expect": "midnight oat and ale bread"
+        },
+        {
+          "question": "What is Delphine's lucky number?",
+          "expect": "820"
+        },
+        {
+          "question": "What is the password to Delphine's workshop?",
+          "expect": "velvet-gale"
+        },
+        {
+          "question": "What is the name of Delphine's pet?",
+          "expect": "Waffles"
+        },
+        {
+          "question": "Who is Delphine's rival?",
+          "expect": "Qadira Lindqvist"
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "file": "pdfs/034-eamon-blackwater.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/034-eamon-blackwater.pdf",
+      "size_bytes": 20847,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Eamon Blackwater",
+        "role": "scout",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Stubborn, principled and tired scout of Neon Meridian, a rain-soaked megacity",
+        "traits": "stubborn, principled and tired",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 70,
+        "hometown": "Greywater",
+        "favorite_dish": "midnight goat cheese tart",
+        "pet_name": "Sorrow",
+        "pet_species": "pigeon",
+        "lucky_number": 804,
+        "password": "plume-vellum",
+        "mentor": "Xiomara Grimsby",
+        "rival": "Rhoswen Fairweather",
+        "friend": "Tiberius Okonkwo",
+        "goal": "to be trusted by the Halcyon Syndicate again",
+        "fear": "mirrors in the dark",
+        "secret": "Eamon sold a family heirloom to pay for Tiberius Okonkwo's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Eamon's favourite dish?",
+          "expect": "midnight goat cheese tart"
+        },
+        {
+          "question": "What is Eamon's lucky number?",
+          "expect": "804"
+        },
+        {
+          "question": "What is the password to Eamon's workshop?",
+          "expect": "plume-vellum"
+        },
+        {
+          "question": "What is the name of Eamon's pet?",
+          "expect": "Sorrow"
+        },
+        {
+          "question": "Who is Eamon's rival?",
+          "expect": "Rhoswen Fairweather"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "file": "pdfs/035-farida-marchetti.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/035-farida-marchetti.pdf",
+      "size_bytes": 6163,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Farida Marchetti",
+        "role": "radio operator",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Proud of a craft nobody appreciates radio operator of the Drowned Library beneath Old Cassilon",
+        "traits": "proud of a craft nobody appreciates",
+        "speech": "speaks softly and expects people to lean in",
+        "age": 74,
+        "hometown": "Bittermoor",
+        "favorite_dish": "twice-cooked ginger duck",
+        "pet_name": "Waffles",
+        "pet_species": "toad",
+        "lucky_number": 982,
+        "password": "ash-vane",
+        "mentor": "Yusuf Achterberg",
+        "rival": "Soren Ravensworth",
+        "friend": "Ursula Greywind",
+        "goal": "to prove Soren Ravensworth wrong about the old tunnels",
+        "fear": "letting Ursula Greywind down",
+        "secret": "Farida was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Farida's favourite dish?",
+          "expect": "twice-cooked ginger duck"
+        },
+        {
+          "question": "What is Farida's lucky number?",
+          "expect": "982"
+        },
+        {
+          "question": "What is the password to Farida's workshop?",
+          "expect": "ash-vane"
+        },
+        {
+          "question": "What is the name of Farida's pet?",
+          "expect": "Waffles"
+        },
+        {
+          "question": "Who is Farida's rival?",
+          "expect": "Soren Ravensworth"
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "file": "pdfs/036-gideon-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/036-gideon-corvane.pdf",
+      "size_bytes": 8676,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Gideon Corvane",
+        "role": "court astronomer",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Kind in deeds, sharp in words court astronomer of the traveling Circus of Marrow and Light",
+        "traits": "kind in deeds, sharp in words",
+        "speech": "swears by the weather instead of the gods",
+        "age": 78,
+        "hometown": "Two Rivers",
+        "favorite_dish": "grandmother's roast root vegetables",
+        "pet_name": "Radish",
+        "pet_species": "goat",
+        "lucky_number": 283,
+        "password": "nutmeg-fable",
+        "mentor": "Zora Duskmere",
+        "rival": "Tallulah Castellan",
+        "friend": "Valentin Achterberg",
+        "goal": "to find out what happened to the missing caravan",
+        "fear": "the far side of the big top",
+        "secret": "Gideon once turned down an offer from the Ringmaster's troupe that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Gideon's favourite dish?",
+          "expect": "grandmother's roast root vegetables"
+        },
+        {
+          "question": "What is Gideon's lucky number?",
+          "expect": "283"
+        },
+        {
+          "question": "What is the password to Gideon's workshop?",
+          "expect": "nutmeg-fable"
+        },
+        {
+          "question": "What is the name of Gideon's pet?",
+          "expect": "Radish"
+        },
+        {
+          "question": "Who is Gideon's rival?",
+          "expect": "Tallulah Castellan"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "file": "pdfs/037-halcyon-duskmere.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/037-halcyon-duskmere.pdf",
+      "size_bytes": 20166,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Halcyon Duskmere",
+        "role": "herbalist",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Charming and evasive herbalist of the Frostwall garrison on the northern border",
+        "traits": "charming and evasive",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 71,
+        "hometown": "Anselm",
+        "favorite_dish": "charred pickled plums",
+        "pet_name": "Biscuit",
+        "pet_species": "lizard",
+        "lucky_number": 785,
+        "password": "umber-quill",
+        "mentor": "Anouk Stillwater",
+        "rival": "Umberto Lindqvist",
+        "friend": "Winifred Zimmerling",
+        "goal": "to map every path through the east rampart",
+        "fear": "mirrors in the dark",
+        "secret": "Halcyon has a sibling nobody in the Frostwall garrison on the northern border knows about, living quietly in Anselm."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Halcyon's favourite dish?",
+          "expect": "charred pickled plums"
+        },
+        {
+          "question": "What is Halcyon's lucky number?",
+          "expect": "785"
+        },
+        {
+          "question": "What is the password to Halcyon's workshop?",
+          "expect": "umber-quill"
+        },
+        {
+          "question": "What is the name of Halcyon's pet?",
+          "expect": "Biscuit"
+        },
+        {
+          "question": "Who is Halcyon's rival?",
+          "expect": "Umberto Lindqvist"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "file": "pdfs/038-imogen-ironside.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/038-imogen-ironside.pdf",
+      "size_bytes": 42448,
+      "pages": 21,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 15,
+      "character": {
+        "name": "Imogen Ironside",
+        "role": "blacksmith",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Cheerfully pessimistic blacksmith of the traveling Circus of Marrow and Light",
+        "traits": "cheerfully pessimistic",
+        "speech": "addresses everyone as 'friend' until they earn a name",
+        "age": 52,
+        "hometown": "the Ninth Terrace",
+        "favorite_dish": "charred chestnut soup",
+        "pet_name": "Thimble",
+        "pet_species": "goat",
+        "lucky_number": 353,
+        "password": "brine-iris",
+        "mentor": "Baptiste Hollowell",
+        "rival": "Vesna Nightingale",
+        "friend": "Xanthe Blackwater",
+        "goal": "to keep Xanthe Blackwater out of trouble for one full season",
+        "fear": "open water",
+        "secret": "Imogen is terrified of deep water and hides it with jokes."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Imogen's favourite dish?",
+          "expect": "charred chestnut soup"
+        },
+        {
+          "question": "What is Imogen's lucky number?",
+          "expect": "353"
+        },
+        {
+          "question": "What is the password to Imogen's workshop?",
+          "expect": "brine-iris"
+        },
+        {
+          "question": "What is the name of Imogen's pet?",
+          "expect": "Thimble"
+        },
+        {
+          "question": "Who is Imogen's rival?",
+          "expect": "Vesna Nightingale"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "file": "pdfs/039-jorah-zimmerling.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/039-jorah-zimmerling.pdf",
+      "size_bytes": 4769,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Jorah Zimmerling",
+        "role": "blacksmith",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Hot-tempered, quick to forgive blacksmith of the traveling Circus of Marrow and Light",
+        "traits": "hot-tempered, quick to forgive",
+        "speech": "hums a few notes between thoughts",
+        "age": 49,
+        "hometown": "Two Rivers",
+        "favorite_dish": "the tavern's lentil fritters",
+        "pet_name": "Sorrow",
+        "pet_species": "salamander",
+        "lucky_number": 631,
+        "password": "ash-oak",
+        "mentor": "Calloway Castellan",
+        "rival": "Wendeline Hartwell",
+        "friend": "Yannick Fairweather",
+        "goal": "to map every path through the big top",
+        "fear": "letting Yannick Fairweather down",
+        "secret": "Jorah keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Jorah's favourite dish?",
+          "expect": "the tavern's lentil fritters"
+        },
+        {
+          "question": "What is Jorah's lucky number?",
+          "expect": "631"
+        },
+        {
+          "question": "What is the password to Jorah's workshop?",
+          "expect": "ash-oak"
+        },
+        {
+          "question": "What is the name of Jorah's pet?",
+          "expect": "Sorrow"
+        },
+        {
+          "question": "Who is Jorah's rival?",
+          "expect": "Wendeline Hartwell"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "file": "pdfs/040-kwame-grimsby.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/040-kwame-grimsby.pdf",
+      "size_bytes": 4763,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Kwame Grimsby",
+        "role": "bookbinder",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Fiercely protective of newcomers bookbinder of the traveling Circus of Marrow and Light",
+        "traits": "fiercely protective of newcomers",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 50,
+        "hometown": "Whitmoor",
+        "favorite_dish": "grandmother's spiced pumpkin dumplings",
+        "pet_name": "Halo",
+        "pet_species": "beetle",
+        "lucky_number": 741,
+        "password": "reed-cove",
+        "mentor": "Delphine Norwood",
+        "rival": "Xavier Ellery",
+        "friend": "Zelda Blackwater",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "birds indoors",
+        "secret": "Kwame owes Xavier Ellery a debt of 247 copper bits that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Kwame's favourite dish?",
+          "expect": "grandmother's spiced pumpkin dumplings"
+        },
+        {
+          "question": "What is Kwame's lucky number?",
+          "expect": "741"
+        },
+        {
+          "question": "What is the password to Kwame's workshop?",
+          "expect": "reed-cove"
+        },
+        {
+          "question": "What is the name of Kwame's pet?",
+          "expect": "Halo"
+        },
+        {
+          "question": "Who is Kwame's rival?",
+          "expect": "Xavier Ellery"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "file": "pdfs/041-leocadia-duskmere.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/041-leocadia-duskmere.pdf",
+      "size_bytes": 9499,
+      "pages": 5,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Leocadia Duskmere",
+        "role": "herbalist",
+        "setting": "the Academy of Vell",
+        "tagline": "Sunny and relentlessly optimistic herbalist of the Academy of Vell",
+        "traits": "sunny and relentlessly optimistic",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 30,
+        "hometown": "Marrow's End",
+        "favorite_dish": "midnight black garlic noodles",
+        "pet_name": "Saucer",
+        "pet_species": "gecko",
+        "lucky_number": 421,
+        "password": "fern-meadow",
+        "mentor": "Eamon Blackwater",
+        "rival": "Yevgenia Corvane",
+        "friend": "Amadou Lindqvist",
+        "goal": "to build a boat with no nails in it",
+        "fear": "a knock at the door after dark",
+        "secret": "Leocadia secretly funds an orphanage in Marrow's End and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Leocadia's favourite dish?",
+          "expect": "midnight black garlic noodles"
+        },
+        {
+          "question": "What is Leocadia's lucky number?",
+          "expect": "421"
+        },
+        {
+          "question": "What is the password to Leocadia's workshop?",
+          "expect": "fern-meadow"
+        },
+        {
+          "question": "What is the name of Leocadia's pet?",
+          "expect": "Saucer"
+        },
+        {
+          "question": "Who is Leocadia's rival?",
+          "expect": "Yevgenia Corvane"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "file": "pdfs/042-matthias-larkspur.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/042-matthias-larkspur.pdf",
+      "size_bytes": 6528,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Matthias Larkspur",
+        "role": "pearl diver",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Dreamy and forgetful pearl diver of the Drowned Library beneath Old Cassilon",
+        "traits": "dreamy and forgetful",
+        "speech": "never uses contractions and apologises for it",
+        "age": 71,
+        "hometown": "Elmsworth",
+        "favorite_dish": "hand-rolled apple and onion hash",
+        "pet_name": "Clementine",
+        "pet_species": "crow",
+        "lucky_number": 961,
+        "password": "anvil-orchid",
+        "mentor": "Farida Marchetti",
+        "rival": "Zubair Oakhurst",
+        "friend": "Brigid Norwood",
+        "goal": "to keep Brigid Norwood out of trouble for one full season",
+        "fear": "owing anything to the Order of Wet Pages",
+        "secret": "Matthias is terrified of deep water and hides it with jokes."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Matthias's favourite dish?",
+          "expect": "hand-rolled apple and onion hash"
+        },
+        {
+          "question": "What is Matthias's lucky number?",
+          "expect": "961"
+        },
+        {
+          "question": "What is the password to Matthias's workshop?",
+          "expect": "anvil-orchid"
+        },
+        {
+          "question": "What is the name of Matthias's pet?",
+          "expect": "Clementine"
+        },
+        {
+          "question": "Who is Matthias's rival?",
+          "expect": "Zubair Oakhurst"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "file": "pdfs/043-nadira-hartwell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/043-nadira-hartwell.pdf",
+      "size_bytes": 8696,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Nadira Hartwell",
+        "role": "archivist",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Dreamy and forgetful archivist of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "dreamy and forgetful",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 30,
+        "hometown": "Little Ashby",
+        "favorite_dish": "grandmother's green tomato chutney",
+        "pet_name": "Whistle",
+        "pet_species": "fox",
+        "lucky_number": 454,
+        "password": "vellum-pepper",
+        "mentor": "Gideon Corvane",
+        "rival": "Astrid Achterberg",
+        "friend": "Caspian Zimmerling",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "owing anything to the Oryn Extraction Consortium",
+        "secret": "Nadira once turned down an offer from the Oryn Extraction Consortium that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Nadira's favourite dish?",
+          "expect": "grandmother's green tomato chutney"
+        },
+        {
+          "question": "What is Nadira's lucky number?",
+          "expect": "454"
+        },
+        {
+          "question": "What is the password to Nadira's workshop?",
+          "expect": "vellum-pepper"
+        },
+        {
+          "question": "What is the name of Nadira's pet?",
+          "expect": "Whistle"
+        },
+        {
+          "question": "Who is Nadira's rival?",
+          "expect": "Astrid Achterberg"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "file": "pdfs/044-orsolya-merriwether.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/044-orsolya-merriwether.pdf",
+      "size_bytes": 14555,
+      "pages": 7,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 5,
+      "character": {
+        "name": "Orsolya Merriwether",
+        "role": "archivist",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Gentle and slow to trust archivist of Lumen Falls, a small mountain town in 1987",
+        "traits": "gentle and slow to trust",
+        "speech": "addresses everyone as 'friend' until they earn a name",
+        "age": 31,
+        "hometown": "Tallow Bay",
+        "favorite_dish": "the tavern's clam fritters",
+        "pet_name": "Turnip",
+        "pet_species": "mouse",
+        "lucky_number": 846,
+        "password": "oak-dune",
+        "mentor": "Halcyon Duskmere",
+        "rival": "Benedikt Lindqvist",
+        "friend": "Dorothea Zimmerling",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Orsolya owes Benedikt Lindqvist a debt of 282 dollars that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Orsolya's favourite dish?",
+          "expect": "the tavern's clam fritters"
+        },
+        {
+          "question": "What is Orsolya's lucky number?",
+          "expect": "846"
+        },
+        {
+          "question": "What is the password to Orsolya's workshop?",
+          "expect": "oak-dune"
+        },
+        {
+          "question": "What is the name of Orsolya's pet?",
+          "expect": "Turnip"
+        },
+        {
+          "question": "Who is Orsolya's rival?",
+          "expect": "Benedikt Lindqvist"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "file": "pdfs/045-percival-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/045-percival-norwood.pdf",
+      "size_bytes": 133172,
+      "pages": 66,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 47,
+      "character": {
+        "name": "Percival Norwood",
+        "role": "lighthouse keeper",
+        "setting": "Verdance, a floating garden city",
+        "tagline": "Methodical and secretly sentimental lighthouse keeper of Verdance, a floating garden city",
+        "traits": "methodical and secretly sentimental",
+        "speech": "compliments people before disagreeing with them",
+        "age": 72,
+        "hometown": "Bittermoor",
+        "favorite_dish": "cold apple and onion hash",
+        "pet_name": "Rook",
+        "pet_species": "parrot",
+        "lucky_number": 578,
+        "password": "lantern-mirror",
+        "mentor": "Imogen Ironside",
+        "rival": "Corvina Underhill",
+        "friend": "Emeric Fairweather",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "owing anything to the Verdance Stewardship",
+        "secret": "Percival sold a family heirloom to pay for Emeric Fairweather's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Percival's favourite dish?",
+          "expect": "cold apple and onion hash"
+        },
+        {
+          "question": "What is Percival's lucky number?",
+          "expect": "578"
+        },
+        {
+          "question": "What is the password to Percival's workshop?",
+          "expect": "lantern-mirror"
+        },
+        {
+          "question": "What is the name of Percival's pet?",
+          "expect": "Rook"
+        },
+        {
+          "question": "Who is Percival's rival?",
+          "expect": "Corvina Underhill"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "file": "pdfs/046-qadira-lindqvist.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/046-qadira-lindqvist.pdf",
+      "size_bytes": 6438,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Qadira Lindqvist",
+        "role": "herbalist",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Competitive about everything herbalist of the Drowned Library beneath Old Cassilon",
+        "traits": "competitive about everything",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 41,
+        "hometown": "Oldbridge",
+        "favorite_dish": "charred honey cakes",
+        "pet_name": "Pockets",
+        "pet_species": "lizard",
+        "lucky_number": 800,
+        "password": "mirror-linen",
+        "mentor": "Jorah Zimmerling",
+        "rival": "Dashiell Underhill",
+        "friend": "Freya Lindqvist",
+        "goal": "to pay off the last of the debt by winter",
+        "fear": "the bells at midnight",
+        "secret": "Qadira owes Dashiell Underhill a debt of 266 ink-weights that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Qadira's favourite dish?",
+          "expect": "charred honey cakes"
+        },
+        {
+          "question": "What is Qadira's lucky number?",
+          "expect": "800"
+        },
+        {
+          "question": "What is the password to Qadira's workshop?",
+          "expect": "mirror-linen"
+        },
+        {
+          "question": "What is the name of Qadira's pet?",
+          "expect": "Pockets"
+        },
+        {
+          "question": "Who is Qadira's rival?",
+          "expect": "Dashiell Underhill"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "file": "pdfs/047-rhoswen-fairweather.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/047-rhoswen-fairweather.pdf",
+      "size_bytes": 7921,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": true,
+      "target_pages": 1,
+      "character": {
+        "name": "Rhoswen Fairweather",
+        "role": "tattooist",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Meticulous and easily flustered tattooist of Neon Meridian, a rain-soaked megacity",
+        "traits": "meticulous and easily flustered",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 69,
+        "hometown": "Bittermoor",
+        "favorite_dish": "twice-cooked honey cakes",
+        "pet_name": "Umbra",
+        "pet_species": "hound",
+        "lucky_number": 413,
+        "password": "lattice-cinder",
+        "mentor": "Kwame Grimsby",
+        "rival": "Elowen Hartwell",
+        "friend": "Gustav Achterberg",
+        "goal": "to reopen the shop their parents lost",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Rhoswen once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Rhoswen's favourite dish?",
+          "expect": "twice-cooked honey cakes"
+        },
+        {
+          "question": "What is Rhoswen's lucky number?",
+          "expect": "413"
+        },
+        {
+          "question": "What is the password to Rhoswen's workshop?",
+          "expect": "lattice-cinder"
+        },
+        {
+          "question": "What is the name of Rhoswen's pet?",
+          "expect": "Umbra"
+        },
+        {
+          "question": "Who is Rhoswen's rival?",
+          "expect": "Elowen Hartwell"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "file": "pdfs/048-soren-ravensworth.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/048-soren-ravensworth.pdf",
+      "size_bytes": 30540,
+      "pages": 15,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 10,
+      "character": {
+        "name": "Soren Ravensworth",
+        "role": "hydroponics technician",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Proud of a craft nobody appreciates hydroponics technician of Lumen Falls, a small mountain town in 1987",
+        "traits": "proud of a craft nobody appreciates",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 68,
+        "hometown": "Bittermoor",
+        "favorite_dish": "midnight cold buckwheat noodles",
+        "pet_name": "Admiral",
+        "pet_species": "goat",
+        "lucky_number": 680,
+        "password": "fable-wick",
+        "mentor": "Leocadia Duskmere",
+        "rival": "Fitzgerald Achterberg",
+        "friend": "Hyacinth Everhart",
+        "goal": "to find out what happened to the missing caravan",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Soren has a sibling nobody in Lumen Falls, a small mountain town in 1987 knows about, living quietly in Bittermoor."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Soren's favourite dish?",
+          "expect": "midnight cold buckwheat noodles"
+        },
+        {
+          "question": "What is Soren's lucky number?",
+          "expect": "680"
+        },
+        {
+          "question": "What is the password to Soren's workshop?",
+          "expect": "fable-wick"
+        },
+        {
+          "question": "What is the name of Soren's pet?",
+          "expect": "Admiral"
+        },
+        {
+          "question": "Who is Soren's rival?",
+          "expect": "Fitzgerald Achterberg"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "file": "pdfs/049-tallulah-castellan.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/049-tallulah-castellan.pdf",
+      "size_bytes": 20255,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Tallulah Castellan",
+        "role": "herbalist",
+        "setting": "Verdance, a floating garden city",
+        "tagline": "Boisterous, generous, easily bored herbalist of Verdance, a floating garden city",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "switches to formal speech when angry",
+        "age": 57,
+        "hometown": "Redgate",
+        "favorite_dish": "grandmother's mushroom dumplings",
+        "pet_name": "Halo",
+        "pet_species": "crow",
+        "lucky_number": 466,
+        "password": "reed-wick",
+        "mentor": "Matthias Larkspur",
+        "rival": "Greta Corvane",
+        "friend": "Ignatius Marchetti",
+        "goal": "to map every path through the Canopy Walk",
+        "fear": "running out of salt",
+        "secret": "Tallulah was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Tallulah's favourite dish?",
+          "expect": "grandmother's mushroom dumplings"
+        },
+        {
+          "question": "What is Tallulah's lucky number?",
+          "expect": "466"
+        },
+        {
+          "question": "What is the password to Tallulah's workshop?",
+          "expect": "reed-wick"
+        },
+        {
+          "question": "What is the name of Tallulah's pet?",
+          "expect": "Halo"
+        },
+        {
+          "question": "Who is Tallulah's rival?",
+          "expect": "Greta Corvane"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "file": "pdfs/050-umberto-lindqvist.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/050-umberto-lindqvist.pdf",
+      "size_bytes": 14294,
+      "pages": 7,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 5,
+      "character": {
+        "name": "Umberto Lindqvist",
+        "role": "translator",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Patient as stone translator of the Frostwall garrison on the northern border",
+        "traits": "patient as stone",
+        "speech": "switches to formal speech when angry",
+        "age": 49,
+        "hometown": "the Mirefold",
+        "favorite_dish": "cold goat cheese tart",
+        "pet_name": "Radish",
+        "pet_species": "fox",
+        "lucky_number": 548,
+        "password": "iris-lattice",
+        "mentor": "Nadira Hartwell",
+        "rival": "Hollis Larkspur",
+        "friend": "Juniper Stillwater",
+        "goal": "to earn the title of master before turning fifty",
+        "fear": "a knock at the door after dark",
+        "secret": "Umberto owes Hollis Larkspur a debt of 182 iron pennies that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Umberto's favourite dish?",
+          "expect": "cold goat cheese tart"
+        },
+        {
+          "question": "What is Umberto's lucky number?",
+          "expect": "548"
+        },
+        {
+          "question": "What is the password to Umberto's workshop?",
+          "expect": "iris-lattice"
+        },
+        {
+          "question": "What is the name of Umberto's pet?",
+          "expect": "Radish"
+        },
+        {
+          "question": "Who is Umberto's rival?",
+          "expect": "Hollis Larkspur"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "file": "pdfs/051-vesna-nightingale.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/051-vesna-nightingale.pdf",
+      "size_bytes": 8507,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 3,
+      "character": {
+        "name": "Vesna Nightingale",
+        "role": "tattooist",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Playful, with a cruel streak they regret tattooist of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "playful, with a cruel streak they regret",
+        "speech": "hums a few notes between thoughts",
+        "age": 59,
+        "hometown": "Two Rivers",
+        "favorite_dish": "grandmother's sour cherry soup",
+        "pet_name": "Quibble",
+        "pet_species": "tortoise",
+        "lucky_number": 716,
+        "password": "oak-orchid",
+        "mentor": "Orsolya Merriwether",
+        "rival": "Isadora Grimsby",
+        "friend": "Kenji Marchetti",
+        "goal": "to prove Isadora Grimsby wrong about the old tunnels",
+        "fear": "a knock at the door after dark",
+        "secret": "Vesna was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Vesna's favourite dish?",
+          "expect": "grandmother's sour cherry soup"
+        },
+        {
+          "question": "What is Vesna's lucky number?",
+          "expect": "716"
+        },
+        {
+          "question": "What is the password to Vesna's workshop?",
+          "expect": "oak-orchid"
+        },
+        {
+          "question": "What is the name of Vesna's pet?",
+          "expect": "Quibble"
+        },
+        {
+          "question": "Who is Vesna's rival?",
+          "expect": "Isadora Grimsby"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "file": "pdfs/052-wendeline-hartwell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/052-wendeline-hartwell.pdf",
+      "size_bytes": 18320,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Wendeline Hartwell",
+        "role": "cartographer",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Meticulous and easily flustered cartographer of Neon Meridian, a rain-soaked megacity",
+        "traits": "meticulous and easily flustered",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 77,
+        "hometown": "Kettering",
+        "favorite_dish": "festival saffron rice",
+        "pet_name": "Sprocket",
+        "pet_species": "lizard",
+        "lucky_number": 645,
+        "password": "granite-pepper",
+        "mentor": "Percival Norwood",
+        "rival": "Jasper Quenneville",
+        "friend": "Lucienne Brightmoor",
+        "goal": "to find out what happened to the missing caravan",
+        "fear": "birds indoors",
+        "secret": "Wendeline cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Wendeline's favourite dish?",
+          "expect": "festival saffron rice"
+        },
+        {
+          "question": "What is Wendeline's lucky number?",
+          "expect": "645"
+        },
+        {
+          "question": "What is the password to Wendeline's workshop?",
+          "expect": "granite-pepper"
+        },
+        {
+          "question": "What is the name of Wendeline's pet?",
+          "expect": "Sprocket"
+        },
+        {
+          "question": "Who is Wendeline's rival?",
+          "expect": "Jasper Quenneville"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "file": "pdfs/053-xavier-ellery.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/053-xavier-ellery.pdf",
+      "size_bytes": 17995,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Xavier Ellery",
+        "role": "court astronomer",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Methodical and secretly sentimental court astronomer of the Frostwall garrison on the northern border",
+        "traits": "methodical and secretly sentimental",
+        "speech": "speaks softly and expects people to lean in",
+        "age": 60,
+        "hometown": "Bittermoor",
+        "favorite_dish": "charred blue corn flatbread",
+        "pet_name": "Sorrow",
+        "pet_species": "ferret",
+        "lucky_number": 853,
+        "password": "heron-ewe",
+        "mentor": "Qadira Lindqvist",
+        "rival": "Katarina Ironside",
+        "friend": "Magnus Merriwether",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "mirrors in the dark",
+        "secret": "Xavier secretly funds an orphanage in Bittermoor and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Xavier's favourite dish?",
+          "expect": "charred blue corn flatbread"
+        },
+        {
+          "question": "What is Xavier's lucky number?",
+          "expect": "853"
+        },
+        {
+          "question": "What is the password to Xavier's workshop?",
+          "expect": "heron-ewe"
+        },
+        {
+          "question": "What is the name of Xavier's pet?",
+          "expect": "Sorrow"
+        },
+        {
+          "question": "Who is Xavier's rival?",
+          "expect": "Katarina Ironside"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "file": "pdfs/054-yevgenia-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/054-yevgenia-corvane.pdf",
+      "size_bytes": 4874,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Yevgenia Corvane",
+        "role": "hydroponics technician",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Anxious but brave when it counts hydroponics technician of the Drowned Library beneath Old Cassilon",
+        "traits": "anxious but brave when it counts",
+        "speech": "compliments people before disagreeing with them",
+        "age": 63,
+        "hometown": "the Lantern Quarter",
+        "favorite_dish": "twice-cooked saffron rice",
+        "pet_name": "Sorrow",
+        "pet_species": "raven",
+        "lucky_number": 948,
+        "password": "cedar-oak",
+        "mentor": "Rhoswen Fairweather",
+        "rival": "Lysander Nightingale",
+        "friend": "Noor Thornbury",
+        "goal": "to retire somewhere warm with Sorrow",
+        "fear": "losing their sense of smell",
+        "secret": "Yevgenia keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Yevgenia's favourite dish?",
+          "expect": "twice-cooked saffron rice"
+        },
+        {
+          "question": "What is Yevgenia's lucky number?",
+          "expect": "948"
+        },
+        {
+          "question": "What is the password to Yevgenia's workshop?",
+          "expect": "cedar-oak"
+        },
+        {
+          "question": "What is the name of Yevgenia's pet?",
+          "expect": "Sorrow"
+        },
+        {
+          "question": "Who is Yevgenia's rival?",
+          "expect": "Lysander Nightingale"
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "file": "pdfs/055-zubair-oakhurst.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/055-zubair-oakhurst.pdf",
+      "size_bytes": 4794,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Zubair Oakhurst",
+        "role": "tax collector",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Charming and evasive tax collector of Neon Meridian, a rain-soaked megacity",
+        "traits": "charming and evasive",
+        "speech": "answers a question with a question before giving a real answer",
+        "age": 33,
+        "hometown": "Oldbridge",
+        "favorite_dish": "cold pickled plums",
+        "pet_name": "Sprocket",
+        "pet_species": "owl",
+        "lucky_number": 621,
+        "password": "saffron-oak",
+        "mentor": "Soren Ravensworth",
+        "rival": "Marisol Ironside",
+        "friend": "Olwen Brightmoor",
+        "goal": "to build a boat with no nails in it",
+        "fear": "running out of salt",
+        "secret": "Zubair has a sibling nobody in Neon Meridian, a rain-soaked megacity knows about, living quietly in Oldbridge."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Zubair's favourite dish?",
+          "expect": "cold pickled plums"
+        },
+        {
+          "question": "What is Zubair's lucky number?",
+          "expect": "621"
+        },
+        {
+          "question": "What is the password to Zubair's workshop?",
+          "expect": "saffron-oak"
+        },
+        {
+          "question": "What is the name of Zubair's pet?",
+          "expect": "Sprocket"
+        },
+        {
+          "question": "Who is Zubair's rival?",
+          "expect": "Marisol Ironside"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "file": "pdfs/056-astrid-achterberg.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/056-astrid-achterberg.pdf",
+      "size_bytes": 50446,
+      "pages": 25,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 18,
+      "character": {
+        "name": "Astrid Achterberg",
+        "role": "salvage pilot",
+        "setting": "the Academy of Vell",
+        "tagline": "Proud of a craft nobody appreciates salvage pilot of the Academy of Vell",
+        "traits": "proud of a craft nobody appreciates",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 35,
+        "hometown": "New Aster",
+        "favorite_dish": "the tavern's fig and walnut bread",
+        "pet_name": "Pockets",
+        "pet_species": "ferret",
+        "lucky_number": 119,
+        "password": "thistle-jade",
+        "mentor": "Tallulah Castellan",
+        "rival": "Nikolai Hartwell",
+        "friend": "Phaedra Corvane",
+        "goal": "to see the ocean once",
+        "fear": "the bells at midnight",
+        "secret": "Astrid owes Nikolai Hartwell a debt of 39 guilders that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Astrid's favourite dish?",
+          "expect": "the tavern's fig and walnut bread"
+        },
+        {
+          "question": "What is Astrid's lucky number?",
+          "expect": "119"
+        },
+        {
+          "question": "What is the password to Astrid's workshop?",
+          "expect": "thistle-jade"
+        },
+        {
+          "question": "What is the name of Astrid's pet?",
+          "expect": "Pockets"
+        },
+        {
+          "question": "Who is Astrid's rival?",
+          "expect": "Nikolai Hartwell"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "file": "pdfs/057-benedikt-lindqvist.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/057-benedikt-lindqvist.pdf",
+      "size_bytes": 6207,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Benedikt Lindqvist",
+        "role": "chandler",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Charming and evasive chandler of Neon Meridian, a rain-soaked megacity",
+        "traits": "charming and evasive",
+        "speech": "laughs at their own jokes a beat too early",
+        "age": 55,
+        "hometown": "Two Rivers",
+        "favorite_dish": "hand-rolled blue corn flatbread",
+        "pet_name": "Rook",
+        "pet_species": "hound",
+        "lucky_number": 480,
+        "password": "harbor-drift",
+        "mentor": "Umberto Lindqvist",
+        "rival": "Octavia Ravensworth",
+        "friend": "Rurik Kettleburn",
+        "goal": "to map every path through the Undermarket",
+        "fear": "the bells at midnight",
+        "secret": "Benedikt once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Benedikt's favourite dish?",
+          "expect": "hand-rolled blue corn flatbread"
+        },
+        {
+          "question": "What is Benedikt's lucky number?",
+          "expect": "480"
+        },
+        {
+          "question": "What is the password to Benedikt's workshop?",
+          "expect": "harbor-drift"
+        },
+        {
+          "question": "What is the name of Benedikt's pet?",
+          "expect": "Rook"
+        },
+        {
+          "question": "Who is Benedikt's rival?",
+          "expect": "Octavia Ravensworth"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "file": "pdfs/058-corvina-underhill.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/058-corvina-underhill.pdf",
+      "size_bytes": 4783,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Corvina Underhill",
+        "role": "innkeeper",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Dreamy and forgetful innkeeper of Lumen Falls, a small mountain town in 1987",
+        "traits": "dreamy and forgetful",
+        "speech": "switches to formal speech when angry",
+        "age": 31,
+        "hometown": "Kettering",
+        "favorite_dish": "hand-rolled sour cherry soup",
+        "pet_name": "Quibble",
+        "pet_species": "mouse",
+        "lucky_number": 441,
+        "password": "saffron-vellum",
+        "mentor": "Vesna Nightingale",
+        "rival": "Pilar Greywind",
+        "friend": "Sunniva Jessop",
+        "goal": "to keep Sunniva Jessop out of trouble for one full season",
+        "fear": "owing anything to the Lumen Falls town council",
+        "secret": "Corvina sold a family heirloom to pay for Sunniva Jessop's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Corvina's favourite dish?",
+          "expect": "hand-rolled sour cherry soup"
+        },
+        {
+          "question": "What is Corvina's lucky number?",
+          "expect": "441"
+        },
+        {
+          "question": "What is the password to Corvina's workshop?",
+          "expect": "saffron-vellum"
+        },
+        {
+          "question": "What is the name of Corvina's pet?",
+          "expect": "Quibble"
+        },
+        {
+          "question": "Who is Corvina's rival?",
+          "expect": "Pilar Greywind"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "file": "pdfs/059-dashiell-underhill.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/059-dashiell-underhill.pdf",
+      "size_bytes": 4834,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Dashiell Underhill",
+        "role": "street medic",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Playful, with a cruel streak they regret street medic of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "playful, with a cruel streak they regret",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 62,
+        "hometown": "Kingsreach",
+        "favorite_dish": "festival fried plantains",
+        "pet_name": "Thimble",
+        "pet_species": "parrot",
+        "lucky_number": 423,
+        "password": "heron-saffron",
+        "mentor": "Wendeline Hartwell",
+        "rival": "Quentin Kaldwin",
+        "friend": "Teodora Oakhurst",
+        "goal": "to finish the great ledger of Bellwether Farms, an agricultural cooperative on Mars",
+        "fear": "a knock at the door after dark",
+        "secret": "Dashiell was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Dashiell's favourite dish?",
+          "expect": "festival fried plantains"
+        },
+        {
+          "question": "What is Dashiell's lucky number?",
+          "expect": "423"
+        },
+        {
+          "question": "What is the password to Dashiell's workshop?",
+          "expect": "heron-saffron"
+        },
+        {
+          "question": "What is the name of Dashiell's pet?",
+          "expect": "Thimble"
+        },
+        {
+          "question": "Who is Dashiell's rival?",
+          "expect": "Quentin Kaldwin"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "file": "pdfs/060-elowen-hartwell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/060-elowen-hartwell.pdf",
+      "size_bytes": 17916,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Elowen Hartwell",
+        "role": "fishmonger",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Stubborn, principled and tired fishmonger of the harbor town of Saltmarsh",
+        "traits": "stubborn, principled and tired",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 60,
+        "hometown": "Marrow's End",
+        "favorite_dish": "cold salt-baked potatoes",
+        "pet_name": "Clementine",
+        "pet_species": "gecko",
+        "lucky_number": 812,
+        "password": "cedar-amber",
+        "mentor": "Xavier Ellery",
+        "rival": "Rosalind Falkenrath",
+        "friend": "Torvald Norwood",
+        "goal": "to prove Rosalind Falkenrath wrong about the old tunnels",
+        "fear": "letting Torvald Norwood down",
+        "secret": "Elowen cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Elowen's favourite dish?",
+          "expect": "cold salt-baked potatoes"
+        },
+        {
+          "question": "What is Elowen's lucky number?",
+          "expect": "812"
+        },
+        {
+          "question": "What is the password to Elowen's workshop?",
+          "expect": "cedar-amber"
+        },
+        {
+          "question": "What is the name of Elowen's pet?",
+          "expect": "Clementine"
+        },
+        {
+          "question": "Who is Elowen's rival?",
+          "expect": "Rosalind Falkenrath"
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "file": "pdfs/061-fitzgerald-achterberg.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/061-fitzgerald-achterberg.pdf",
+      "size_bytes": 4739,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Fitzgerald Achterberg",
+        "role": "bookbinder",
+        "setting": "the Academy of Vell",
+        "tagline": "Loyal to a fault bookbinder of the Academy of Vell",
+        "traits": "loyal to a fault",
+        "speech": "addresses everyone as 'friend' until they earn a name",
+        "age": 28,
+        "hometown": "Two Rivers",
+        "favorite_dish": "twice-cooked wild rice pilaf",
+        "pet_name": "Pip",
+        "pet_species": "hawk",
+        "lucky_number": 399,
+        "password": "gale-indigo",
+        "mentor": "Yevgenia Corvane",
+        "rival": "Sixten Dunmore",
+        "friend": "Mara Ravensworth",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "birds indoors",
+        "secret": "Fitzgerald owes Sixten Dunmore a debt of 133 guilders that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Fitzgerald's favourite dish?",
+          "expect": "twice-cooked wild rice pilaf"
+        },
+        {
+          "question": "What is Fitzgerald's lucky number?",
+          "expect": "399"
+        },
+        {
+          "question": "What is the password to Fitzgerald's workshop?",
+          "expect": "gale-indigo"
+        },
+        {
+          "question": "What is the name of Fitzgerald's pet?",
+          "expect": "Pip"
+        },
+        {
+          "question": "Who is Fitzgerald's rival?",
+          "expect": "Sixten Dunmore"
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "file": "pdfs/062-greta-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/062-greta-corvane.pdf",
+      "size_bytes": 42326,
+      "pages": 21,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 15,
+      "character": {
+        "name": "Greta Corvane",
+        "role": "ring announcer",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Sardonic with a soft center ring announcer of the Frostwall garrison on the northern border",
+        "traits": "sardonic with a soft center",
+        "speech": "ends sentences with 'you understand?'",
+        "age": 78,
+        "hometown": "the Copper Coast",
+        "favorite_dish": "hand-rolled sesame brittle",
+        "pet_name": "Captain",
+        "pet_species": "raven",
+        "lucky_number": 530,
+        "password": "umber-saffron",
+        "mentor": "Zubair Oakhurst",
+        "rival": "Tiberius Okonkwo",
+        "friend": "Ysolde Fairweather",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Greta secretly funds an orphanage in the Copper Coast and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Greta's favourite dish?",
+          "expect": "hand-rolled sesame brittle"
+        },
+        {
+          "question": "What is Greta's lucky number?",
+          "expect": "530"
+        },
+        {
+          "question": "What is the password to Greta's workshop?",
+          "expect": "umber-saffron"
+        },
+        {
+          "question": "What is the name of Greta's pet?",
+          "expect": "Captain"
+        },
+        {
+          "question": "Who is Greta's rival?",
+          "expect": "Tiberius Okonkwo"
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "file": "pdfs/063-hollis-larkspur.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/063-hollis-larkspur.pdf",
+      "size_bytes": 4750,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Hollis Larkspur",
+        "role": "tutor",
+        "setting": "the Academy of Vell",
+        "tagline": "Competitive about everything tutor of the Academy of Vell",
+        "traits": "competitive about everything",
+        "speech": "swears by the weather instead of the gods",
+        "age": 75,
+        "hometown": "Little Ashby",
+        "favorite_dish": "the tavern's molasses beans",
+        "pet_name": "Tinker",
+        "pet_species": "crow",
+        "lucky_number": 207,
+        "password": "linen-saffron",
+        "mentor": "Astrid Achterberg",
+        "rival": "Ursula Greywind",
+        "friend": "Bram Norwood",
+        "goal": "to find out what happened to the missing caravan",
+        "fear": "fire in enclosed spaces",
+        "secret": "Hollis has a sibling nobody in the Academy of Vell knows about, living quietly in Little Ashby."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Hollis's favourite dish?",
+          "expect": "the tavern's molasses beans"
+        },
+        {
+          "question": "What is Hollis's lucky number?",
+          "expect": "207"
+        },
+        {
+          "question": "What is the password to Hollis's workshop?",
+          "expect": "linen-saffron"
+        },
+        {
+          "question": "What is the name of Hollis's pet?",
+          "expect": "Tinker"
+        },
+        {
+          "question": "Who is Hollis's rival?",
+          "expect": "Ursula Greywind"
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "file": "pdfs/064-isadora-grimsby.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/064-isadora-grimsby.pdf",
+      "size_bytes": 6415,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Isadora Grimsby",
+        "role": "noodle-stall cook",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Theatrical and vain noodle-stall cook of the Frostwall garrison on the northern border",
+        "traits": "theatrical and vain",
+        "speech": "swears by the weather instead of the gods",
+        "age": 32,
+        "hometown": "Tallow Bay",
+        "favorite_dish": "cold juniper sausages",
+        "pet_name": "Fidget",
+        "pet_species": "raven",
+        "lucky_number": 931,
+        "password": "yarrow-nutmeg",
+        "mentor": "Benedikt Lindqvist",
+        "rival": "Valentin Achterberg",
+        "friend": "Kestrel Hartwell",
+        "goal": "to retire somewhere warm with Fidget",
+        "fear": "losing their sense of smell",
+        "secret": "Isadora once turned down an offer from the Frostwall Legion that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Isadora's favourite dish?",
+          "expect": "cold juniper sausages"
+        },
+        {
+          "question": "What is Isadora's lucky number?",
+          "expect": "931"
+        },
+        {
+          "question": "What is the password to Isadora's workshop?",
+          "expect": "yarrow-nutmeg"
+        },
+        {
+          "question": "What is the name of Isadora's pet?",
+          "expect": "Fidget"
+        },
+        {
+          "question": "Who is Isadora's rival?",
+          "expect": "Valentin Achterberg"
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "file": "pdfs/065-jasper-quenneville.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/065-jasper-quenneville.pdf",
+      "size_bytes": 37843,
+      "pages": 19,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 13,
+      "character": {
+        "name": "Jasper Quenneville",
+        "role": "archivist",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Competitive about everything archivist of the harbor town of Saltmarsh",
+        "traits": "competitive about everything",
+        "speech": "compliments people before disagreeing with them",
+        "age": 34,
+        "hometown": "the Weeping Shoals",
+        "favorite_dish": "the tavern's peach hand pies",
+        "pet_name": "Sprocket",
+        "pet_species": "cat",
+        "lucky_number": 569,
+        "password": "birch-plume",
+        "mentor": "Corvina Underhill",
+        "rival": "Winifred Zimmerling",
+        "friend": "Oduya Underhill",
+        "goal": "to prove Winifred Zimmerling wrong about the old tunnels",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Jasper once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Jasper's favourite dish?",
+          "expect": "the tavern's peach hand pies"
+        },
+        {
+          "question": "What is Jasper's lucky number?",
+          "expect": "569"
+        },
+        {
+          "question": "What is the password to Jasper's workshop?",
+          "expect": "birch-plume"
+        },
+        {
+          "question": "What is the name of Jasper's pet?",
+          "expect": "Sprocket"
+        },
+        {
+          "question": "Who is Jasper's rival?",
+          "expect": "Winifred Zimmerling"
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "file": "pdfs/066-katarina-ironside.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/066-katarina-ironside.pdf",
+      "size_bytes": 6281,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Katarina Ironside",
+        "role": "fishmonger",
+        "setting": "the Academy of Vell",
+        "tagline": "Methodical and secretly sentimental fishmonger of the Academy of Vell",
+        "traits": "methodical and secretly sentimental",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 24,
+        "hometown": "Halvard",
+        "favorite_dish": "hand-rolled black garlic noodles",
+        "pet_name": "Ollie",
+        "pet_species": "lizard",
+        "lucky_number": 316,
+        "password": "saffron-thorn",
+        "mentor": "Dashiell Underhill",
+        "rival": "Xanthe Blackwater",
+        "friend": "Fenwick Falkenrath",
+        "goal": "to map every path through the Hall of Echoes",
+        "fear": "birds indoors",
+        "secret": "Katarina has never told Dashiell Underhill that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Katarina's favourite dish?",
+          "expect": "hand-rolled black garlic noodles"
+        },
+        {
+          "question": "What is Katarina's lucky number?",
+          "expect": "316"
+        },
+        {
+          "question": "What is the password to Katarina's workshop?",
+          "expect": "saffron-thorn"
+        },
+        {
+          "question": "What is the name of Katarina's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Katarina's rival?",
+          "expect": "Xanthe Blackwater"
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "file": "pdfs/067-lysander-nightingale.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/067-lysander-nightingale.pdf",
+      "size_bytes": 9544,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": true,
+      "target_pages": 2,
+      "character": {
+        "name": "Lysander Nightingale",
+        "role": "clockmaker",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Cynical mentor who wants to be proven wrong clockmaker of the harbor town of Saltmarsh",
+        "traits": "cynical mentor who wants to be proven wrong",
+        "speech": "addresses everyone as 'friend' until they earn a name",
+        "age": 29,
+        "hometown": "Redgate",
+        "favorite_dish": "festival mushroom dumplings",
+        "pet_name": "Pebble",
+        "pet_species": "rabbit",
+        "lucky_number": 691,
+        "password": "drift-cove",
+        "mentor": "Elowen Hartwell",
+        "rival": "Yannick Fairweather",
+        "friend": "Liora Grimsby",
+        "goal": "to teach one apprentice who actually listens",
+        "fear": "being seen to cry",
+        "secret": "Lysander once turned down an offer from the Harbormasters' Guild that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Lysander's favourite dish?",
+          "expect": "festival mushroom dumplings"
+        },
+        {
+          "question": "What is Lysander's lucky number?",
+          "expect": "691"
+        },
+        {
+          "question": "What is the password to Lysander's workshop?",
+          "expect": "drift-cove"
+        },
+        {
+          "question": "What is the name of Lysander's pet?",
+          "expect": "Pebble"
+        },
+        {
+          "question": "Who is Lysander's rival?",
+          "expect": "Yannick Fairweather"
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "file": "pdfs/068-marisol-ironside.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/068-marisol-ironside.pdf",
+      "size_bytes": 6179,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Marisol Ironside",
+        "role": "clockmaker",
+        "setting": "the Dust Road caravan routes",
+        "tagline": "Charming and evasive clockmaker of the Dust Road caravan routes",
+        "traits": "charming and evasive",
+        "speech": "switches to formal speech when angry",
+        "age": 73,
+        "hometown": "Elmsworth",
+        "favorite_dish": "hand-rolled rosewater pudding",
+        "pet_name": "Rook",
+        "pet_species": "salamander",
+        "lucky_number": 102,
+        "password": "heron-vellum",
+        "mentor": "Fitzgerald Achterberg",
+        "rival": "Zelda Blackwater",
+        "friend": "Hamish Oakhurst",
+        "goal": "to finish the great ledger of the Dust Road caravan routes",
+        "fear": "being forgotten",
+        "secret": "Marisol secretly funds an orphanage in Elmsworth and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Marisol's favourite dish?",
+          "expect": "hand-rolled rosewater pudding"
+        },
+        {
+          "question": "What is Marisol's lucky number?",
+          "expect": "102"
+        },
+        {
+          "question": "What is the password to Marisol's workshop?",
+          "expect": "heron-vellum"
+        },
+        {
+          "question": "What is the name of Marisol's pet?",
+          "expect": "Rook"
+        },
+        {
+          "question": "Who is Marisol's rival?",
+          "expect": "Zelda Blackwater"
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "file": "pdfs/069-nikolai-hartwell.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/069-nikolai-hartwell.pdf",
+      "size_bytes": 48350,
+      "pages": 24,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 17,
+      "character": {
+        "name": "Nikolai Hartwell",
+        "role": "bookbinder",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Gruff but generous bookbinder of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "gruff but generous",
+        "speech": "compliments people before disagreeing with them",
+        "age": 38,
+        "hometown": "Anselm",
+        "favorite_dish": "twice-cooked roast root vegetables",
+        "pet_name": "Barnaby",
+        "pet_species": "tortoise",
+        "lucky_number": 360,
+        "password": "heron-velvet",
+        "mentor": "Greta Corvane",
+        "rival": "Amadou Lindqvist",
+        "friend": "Zeph Corvane",
+        "goal": "to map every path through Ring Deck 4",
+        "fear": "the bells at midnight",
+        "secret": "Nikolai has never told Greta Corvane that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Nikolai's favourite dish?",
+          "expect": "twice-cooked roast root vegetables"
+        },
+        {
+          "question": "What is Nikolai's lucky number?",
+          "expect": "360"
+        },
+        {
+          "question": "What is the password to Nikolai's workshop?",
+          "expect": "heron-velvet"
+        },
+        {
+          "question": "What is the name of Nikolai's pet?",
+          "expect": "Barnaby"
+        },
+        {
+          "question": "Who is Nikolai's rival?",
+          "expect": "Amadou Lindqvist"
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "file": "pdfs/070-octavia-ravensworth.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/070-octavia-ravensworth.pdf",
+      "size_bytes": 11868,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Octavia Ravensworth",
+        "role": "court astronomer",
+        "setting": "Verdance, a floating garden city",
+        "tagline": "Boisterous, generous, easily bored court astronomer of Verdance, a floating garden city",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "hums a few notes between thoughts",
+        "age": 32,
+        "hometown": "Fennick",
+        "favorite_dish": "festival molasses beans",
+        "pet_name": "Sprocket",
+        "pet_species": "hedgehog",
+        "lucky_number": 668,
+        "password": "nutmeg-vane",
+        "mentor": "Hollis Larkspur",
+        "rival": "Brigid Norwood",
+        "friend": "Ingrid Thornbury",
+        "goal": "to pay off the last of the debt by winter",
+        "fear": "the bells at midnight",
+        "secret": "Octavia secretly funds an orphanage in Fennick and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Octavia's favourite dish?",
+          "expect": "festival molasses beans"
+        },
+        {
+          "question": "What is Octavia's lucky number?",
+          "expect": "668"
+        },
+        {
+          "question": "What is the password to Octavia's workshop?",
+          "expect": "nutmeg-vane"
+        },
+        {
+          "question": "What is the name of Octavia's pet?",
+          "expect": "Sprocket"
+        },
+        {
+          "question": "Who is Octavia's rival?",
+          "expect": "Brigid Norwood"
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "file": "pdfs/071-pilar-greywind.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/071-pilar-greywind.pdf",
+      "size_bytes": 22969,
+      "pages": 11,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 8,
+      "character": {
+        "name": "Pilar Greywind",
+        "role": "radio operator",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Boisterous, generous, easily bored radio operator of the Drowned Library beneath Old Cassilon",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "refuses to say the word 'no' outright",
+        "age": 21,
+        "hometown": "Sunder",
+        "favorite_dish": "midnight chestnut soup",
+        "pet_name": "Ziggy",
+        "pet_species": "hound",
+        "lucky_number": 196,
+        "password": "tallow-obsidian",
+        "mentor": "Isadora Grimsby",
+        "rival": "Caspian Zimmerling",
+        "friend": "Cassius Nightingale",
+        "goal": "to build a boat with no nails in it",
+        "fear": "being forgotten",
+        "secret": "Pilar once turned down an offer from the Order of Wet Pages that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Pilar's favourite dish?",
+          "expect": "midnight chestnut soup"
+        },
+        {
+          "question": "What is Pilar's lucky number?",
+          "expect": "196"
+        },
+        {
+          "question": "What is the password to Pilar's workshop?",
+          "expect": "tallow-obsidian"
+        },
+        {
+          "question": "What is the name of Pilar's pet?",
+          "expect": "Ziggy"
+        },
+        {
+          "question": "Who is Pilar's rival?",
+          "expect": "Caspian Zimmerling"
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "file": "pdfs/072-quentin-kaldwin.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/072-quentin-kaldwin.pdf",
+      "size_bytes": 4866,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Quentin Kaldwin",
+        "role": "beekeeper",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Melancholy but funny beekeeper of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "melancholy but funny",
+        "speech": "peppers everything with nautical metaphors",
+        "age": 38,
+        "hometown": "Greywater",
+        "favorite_dish": "cold seaweed crackers",
+        "pet_name": "Captain",
+        "pet_species": "beetle",
+        "lucky_number": 789,
+        "password": "raven-cobalt",
+        "mentor": "Jasper Quenneville",
+        "rival": "Dorothea Zimmerling",
+        "friend": "Nkechi Irongate",
+        "goal": "to be trusted by the Oryn Extraction Consortium again",
+        "fear": "letting Nkechi Irongate down",
+        "secret": "Quentin has a sibling nobody in Kepler Station, a mining outpost orbiting the gas giant Oryn knows about, living quietly in Greywater."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Quentin's favourite dish?",
+          "expect": "cold seaweed crackers"
+        },
+        {
+          "question": "What is Quentin's lucky number?",
+          "expect": "789"
+        },
+        {
+          "question": "What is the password to Quentin's workshop?",
+          "expect": "raven-cobalt"
+        },
+        {
+          "question": "What is the name of Quentin's pet?",
+          "expect": "Captain"
+        },
+        {
+          "question": "Who is Quentin's rival?",
+          "expect": "Dorothea Zimmerling"
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "file": "pdfs/073-rosalind-falkenrath.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/073-rosalind-falkenrath.pdf",
+      "size_bytes": 4817,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Rosalind Falkenrath",
+        "role": "court astronomer",
+        "setting": "the Academy of Vell",
+        "tagline": "Melancholy but funny court astronomer of the Academy of Vell",
+        "traits": "melancholy but funny",
+        "speech": "compliments people before disagreeing with them",
+        "age": 72,
+        "hometown": "Port Calloway",
+        "favorite_dish": "twice-cooked lentil fritters",
+        "pet_name": "Admiral",
+        "pet_species": "crow",
+        "lucky_number": 239,
+        "password": "harbor-oak",
+        "mentor": "Katarina Ironside",
+        "rival": "Emeric Fairweather",
+        "friend": "Rowan Duskmere",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "mirrors in the dark",
+        "secret": "Rosalind once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Rosalind's favourite dish?",
+          "expect": "twice-cooked lentil fritters"
+        },
+        {
+          "question": "What is Rosalind's lucky number?",
+          "expect": "239"
+        },
+        {
+          "question": "What is the password to Rosalind's workshop?",
+          "expect": "harbor-oak"
+        },
+        {
+          "question": "What is the name of Rosalind's pet?",
+          "expect": "Admiral"
+        },
+        {
+          "question": "Who is Rosalind's rival?",
+          "expect": "Emeric Fairweather"
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "file": "pdfs/074-sixten-dunmore.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/074-sixten-dunmore.pdf",
+      "size_bytes": 152179,
+      "pages": 75,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 54,
+      "character": {
+        "name": "Sixten Dunmore",
+        "role": "exorcist",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Meticulous and easily flustered exorcist of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "meticulous and easily flustered",
+        "speech": "ends sentences with 'you understand?'",
+        "age": 62,
+        "hometown": "Caldera Row",
+        "favorite_dish": "grandmother's pickled plums",
+        "pet_name": "Bramble",
+        "pet_species": "hawk",
+        "lucky_number": 676,
+        "password": "harbor-kelp",
+        "mentor": "Lysander Nightingale",
+        "rival": "Freya Lindqvist",
+        "friend": "Sable Marchetti",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Sixten secretly funds an orphanage in Caldera Row and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Sixten's favourite dish?",
+          "expect": "grandmother's pickled plums"
+        },
+        {
+          "question": "What is Sixten's lucky number?",
+          "expect": "676"
+        },
+        {
+          "question": "What is the password to Sixten's workshop?",
+          "expect": "harbor-kelp"
+        },
+        {
+          "question": "What is the name of Sixten's pet?",
+          "expect": "Bramble"
+        },
+        {
+          "question": "Who is Sixten's rival?",
+          "expect": "Freya Lindqvist"
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "file": "pdfs/075-tiberius-okonkwo.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/075-tiberius-okonkwo.pdf",
+      "size_bytes": 6278,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Tiberius Okonkwo",
+        "role": "courier",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Loyal to a fault courier of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "loyal to a fault",
+        "speech": "swears by the weather instead of the gods",
+        "age": 68,
+        "hometown": "Marrow's End",
+        "favorite_dish": "festival fig and walnut bread",
+        "pet_name": "Marzipan",
+        "pet_species": "hedgehog",
+        "lucky_number": 532,
+        "password": "saffron-ash",
+        "mentor": "Marisol Ironside",
+        "rival": "Gustav Achterberg",
+        "friend": "Thaddeus Oakhurst",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "losing their sense of smell",
+        "secret": "Tiberius keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Tiberius's favourite dish?",
+          "expect": "festival fig and walnut bread"
+        },
+        {
+          "question": "What is Tiberius's lucky number?",
+          "expect": "532"
+        },
+        {
+          "question": "What is the password to Tiberius's workshop?",
+          "expect": "saffron-ash"
+        },
+        {
+          "question": "What is the name of Tiberius's pet?",
+          "expect": "Marzipan"
+        },
+        {
+          "question": "Who is Tiberius's rival?",
+          "expect": "Gustav Achterberg"
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "file": "pdfs/076-ursula-greywind.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/076-ursula-greywind.pdf",
+      "size_bytes": 54498,
+      "pages": 27,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 19,
+      "character": {
+        "name": "Ursula Greywind",
+        "role": "fortune teller",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Fiercely protective of newcomers fortune teller of Lumen Falls, a small mountain town in 1987",
+        "traits": "fiercely protective of newcomers",
+        "speech": "answers a question with a question before giving a real answer",
+        "age": 33,
+        "hometown": "Wickham Hollow",
+        "favorite_dish": "midnight apple and onion hash",
+        "pet_name": "Turnip",
+        "pet_species": "lizard",
+        "lucky_number": 794,
+        "password": "meadow-saffron",
+        "mentor": "Nikolai Hartwell",
+        "rival": "Hyacinth Everhart",
+        "friend": "Wren Corvane",
+        "goal": "to finish the great ledger of Lumen Falls, a small mountain town in 1987",
+        "fear": "losing their sense of smell",
+        "secret": "Ursula owes Hyacinth Everhart a debt of 264 dollars that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ursula's favourite dish?",
+          "expect": "midnight apple and onion hash"
+        },
+        {
+          "question": "What is Ursula's lucky number?",
+          "expect": "794"
+        },
+        {
+          "question": "What is the password to Ursula's workshop?",
+          "expect": "meadow-saffron"
+        },
+        {
+          "question": "What is the name of Ursula's pet?",
+          "expect": "Turnip"
+        },
+        {
+          "question": "Who is Ursula's rival?",
+          "expect": "Hyacinth Everhart"
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "file": "pdfs/077-valentin-achterberg.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/077-valentin-achterberg.pdf",
+      "size_bytes": 20170,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Valentin Achterberg",
+        "role": "clockmaker",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Gentle and slow to trust clockmaker of the Frostwall garrison on the northern border",
+        "traits": "gentle and slow to trust",
+        "speech": "counts things aloud when nervous",
+        "age": 39,
+        "hometown": "Solace",
+        "favorite_dish": "twice-cooked coconut porridge",
+        "pet_name": "Sable",
+        "pet_species": "hawk",
+        "lucky_number": 338,
+        "password": "copper-cinder",
+        "mentor": "Octavia Ravensworth",
+        "rival": "Ignatius Marchetti",
+        "friend": "Osric Ashgrove",
+        "goal": "to see the ocean once",
+        "fear": "fire in enclosed spaces",
+        "secret": "Valentin cannot actually read the old script everyone assumes they can, and has memorised the important pages."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Valentin's favourite dish?",
+          "expect": "twice-cooked coconut porridge"
+        },
+        {
+          "question": "What is Valentin's lucky number?",
+          "expect": "338"
+        },
+        {
+          "question": "What is the password to Valentin's workshop?",
+          "expect": "copper-cinder"
+        },
+        {
+          "question": "What is the name of Valentin's pet?",
+          "expect": "Sable"
+        },
+        {
+          "question": "Who is Valentin's rival?",
+          "expect": "Ignatius Marchetti"
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "file": "pdfs/078-winifred-zimmerling.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/078-winifred-zimmerling.pdf",
+      "size_bytes": 46394,
+      "pages": 23,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 16,
+      "character": {
+        "name": "Winifred Zimmerling",
+        "role": "cartographer",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Melancholy but funny cartographer of the Drowned Library beneath Old Cassilon",
+        "traits": "melancholy but funny",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 66,
+        "hometown": "Bittermoor",
+        "favorite_dish": "twice-cooked mushroom dumplings",
+        "pet_name": "Tinker",
+        "pet_species": "hawk",
+        "lucky_number": 222,
+        "password": "slate-tallow",
+        "mentor": "Pilar Greywind",
+        "rival": "Juniper Stillwater",
+        "friend": "Petra Nightingale",
+        "goal": "to keep Petra Nightingale out of trouble for one full season",
+        "fear": "birds indoors",
+        "secret": "Winifred once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Winifred's favourite dish?",
+          "expect": "twice-cooked mushroom dumplings"
+        },
+        {
+          "question": "What is Winifred's lucky number?",
+          "expect": "222"
+        },
+        {
+          "question": "What is the password to Winifred's workshop?",
+          "expect": "slate-tallow"
+        },
+        {
+          "question": "What is the name of Winifred's pet?",
+          "expect": "Tinker"
+        },
+        {
+          "question": "Who is Winifred's rival?",
+          "expect": "Juniper Stillwater"
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "file": "pdfs/079-xanthe-blackwater.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/079-xanthe-blackwater.pdf",
+      "size_bytes": 171079,
+      "pages": 85,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 60,
+      "character": {
+        "name": "Xanthe Blackwater",
+        "role": "retired duelist",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Cheerfully pessimistic retired duelist of the traveling Circus of Marrow and Light",
+        "traits": "cheerfully pessimistic",
+        "speech": "counts things aloud when nervous",
+        "age": 45,
+        "hometown": "Kettering",
+        "favorite_dish": "the tavern's tamarind chicken",
+        "pet_name": "Nutmeg",
+        "pet_species": "rabbit",
+        "lucky_number": 857,
+        "password": "quartz-tide",
+        "mentor": "Quentin Kaldwin",
+        "rival": "Kenji Marchetti",
+        "friend": "Quillon Norwood",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "the far side of the big top",
+        "secret": "Xanthe has a sibling nobody in the traveling Circus of Marrow and Light knows about, living quietly in Kettering."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Xanthe's favourite dish?",
+          "expect": "the tavern's tamarind chicken"
+        },
+        {
+          "question": "What is Xanthe's lucky number?",
+          "expect": "857"
+        },
+        {
+          "question": "What is the password to Xanthe's workshop?",
+          "expect": "quartz-tide"
+        },
+        {
+          "question": "What is the name of Xanthe's pet?",
+          "expect": "Nutmeg"
+        },
+        {
+          "question": "Who is Xanthe's rival?",
+          "expect": "Kenji Marchetti"
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "file": "pdfs/080-yannick-fairweather.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/080-yannick-fairweather.pdf",
+      "size_bytes": 14676,
+      "pages": 7,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 5,
+      "character": {
+        "name": "Yannick Fairweather",
+        "role": "glassblower",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Kind in deeds, sharp in words glassblower of the Drowned Library beneath Old Cassilon",
+        "traits": "kind in deeds, sharp in words",
+        "speech": "peppers everything with nautical metaphors",
+        "age": 52,
+        "hometown": "Dry Harbor",
+        "favorite_dish": "hand-rolled peach hand pies",
+        "pet_name": "Ollie",
+        "pet_species": "hawk",
+        "lucky_number": 909,
+        "password": "oak-gale",
+        "mentor": "Rosalind Falkenrath",
+        "rival": "Lucienne Brightmoor",
+        "friend": "Ravi Norwood",
+        "goal": "to prove Lucienne Brightmoor wrong about the old tunnels",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Yannick was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Yannick's favourite dish?",
+          "expect": "hand-rolled peach hand pies"
+        },
+        {
+          "question": "What is Yannick's lucky number?",
+          "expect": "909"
+        },
+        {
+          "question": "What is the password to Yannick's workshop?",
+          "expect": "oak-gale"
+        },
+        {
+          "question": "What is the name of Yannick's pet?",
+          "expect": "Ollie"
+        },
+        {
+          "question": "Who is Yannick's rival?",
+          "expect": "Lucienne Brightmoor"
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "file": "pdfs/081-zelda-blackwater.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/081-zelda-blackwater.pdf",
+      "size_bytes": 11613,
+      "pages": 6,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 4,
+      "character": {
+        "name": "Zelda Blackwater",
+        "role": "court astronomer",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Cheerfully pessimistic court astronomer of Lumen Falls, a small mountain town in 1987",
+        "traits": "cheerfully pessimistic",
+        "speech": "switches to formal speech when angry",
+        "age": 67,
+        "hometown": "Anselm",
+        "favorite_dish": "grandmother's black garlic noodles",
+        "pet_name": "Bramble",
+        "pet_species": "goat",
+        "lucky_number": 634,
+        "password": "hollow-quill",
+        "mentor": "Sixten Dunmore",
+        "rival": "Magnus Merriwether",
+        "friend": "Seraphine Kaldwin",
+        "goal": "to prove Magnus Merriwether wrong about the old tunnels",
+        "fear": "the bells at midnight",
+        "secret": "Zelda was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Zelda's favourite dish?",
+          "expect": "grandmother's black garlic noodles"
+        },
+        {
+          "question": "What is Zelda's lucky number?",
+          "expect": "634"
+        },
+        {
+          "question": "What is the password to Zelda's workshop?",
+          "expect": "hollow-quill"
+        },
+        {
+          "question": "What is the name of Zelda's pet?",
+          "expect": "Bramble"
+        },
+        {
+          "question": "Who is Zelda's rival?",
+          "expect": "Magnus Merriwether"
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "file": "pdfs/082-amadou-lindqvist.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/082-amadou-lindqvist.pdf",
+      "size_bytes": 17400,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Amadou Lindqvist",
+        "role": "chandler",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Shy, brilliant and defensive chandler of the harbor town of Saltmarsh",
+        "traits": "shy, brilliant and defensive",
+        "speech": "speaks softly and expects people to lean in",
+        "age": 28,
+        "hometown": "Kettering",
+        "favorite_dish": "hand-rolled ginger duck",
+        "pet_name": "Sable",
+        "pet_species": "goat",
+        "lucky_number": 744,
+        "password": "granite-indigo",
+        "mentor": "Tiberius Okonkwo",
+        "rival": "Noor Thornbury",
+        "friend": "Tomasz Nightingale",
+        "goal": "to map every path through the Old Quay",
+        "fear": "losing their sense of smell",
+        "secret": "Amadou once turned down an offer from the Harbormasters' Guild that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Amadou's favourite dish?",
+          "expect": "hand-rolled ginger duck"
+        },
+        {
+          "question": "What is Amadou's lucky number?",
+          "expect": "744"
+        },
+        {
+          "question": "What is the password to Amadou's workshop?",
+          "expect": "granite-indigo"
+        },
+        {
+          "question": "What is the name of Amadou's pet?",
+          "expect": "Sable"
+        },
+        {
+          "question": "Who is Amadou's rival?",
+          "expect": "Noor Thornbury"
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "file": "pdfs/083-brigid-norwood.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/083-brigid-norwood.pdf",
+      "size_bytes": 6211,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Brigid Norwood",
+        "role": "bookbinder",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Gentle and slow to trust bookbinder of the Frostwall garrison on the northern border",
+        "traits": "gentle and slow to trust",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 58,
+        "hometown": "Anselm",
+        "favorite_dish": "grandmother's sesame brittle",
+        "pet_name": "Clementine",
+        "pet_species": "hawk",
+        "lucky_number": 650,
+        "password": "thistle-obsidian",
+        "mentor": "Ursula Greywind",
+        "rival": "Olwen Brightmoor",
+        "friend": "Ulla Vasquez-Moor",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "owing anything to the Frostwall Legion",
+        "secret": "Brigid has never told Ursula Greywind that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Brigid's favourite dish?",
+          "expect": "grandmother's sesame brittle"
+        },
+        {
+          "question": "What is Brigid's lucky number?",
+          "expect": "650"
+        },
+        {
+          "question": "What is the password to Brigid's workshop?",
+          "expect": "thistle-obsidian"
+        },
+        {
+          "question": "What is the name of Brigid's pet?",
+          "expect": "Clementine"
+        },
+        {
+          "question": "Who is Brigid's rival?",
+          "expect": "Olwen Brightmoor"
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "file": "pdfs/084-caspian-zimmerling.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/084-caspian-zimmerling.pdf",
+      "size_bytes": 17557,
+      "pages": 9,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 6,
+      "character": {
+        "name": "Caspian Zimmerling",
+        "role": "gardener",
+        "setting": "the Dust Road caravan routes",
+        "tagline": "Patient as stone gardener of the Dust Road caravan routes",
+        "traits": "patient as stone",
+        "speech": "hums a few notes between thoughts",
+        "age": 66,
+        "hometown": "Redgate",
+        "favorite_dish": "cold mushroom dumplings",
+        "pet_name": "Halo",
+        "pet_species": "lizard",
+        "lucky_number": 601,
+        "password": "fable-tallow",
+        "mentor": "Valentin Achterberg",
+        "rival": "Phaedra Corvane",
+        "friend": "Viggo Norwood",
+        "goal": "to map every path through Wayrest Springs",
+        "fear": "running out of salt",
+        "secret": "Caspian owes Phaedra Corvane a debt of 200 trade tokens that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Caspian's favourite dish?",
+          "expect": "cold mushroom dumplings"
+        },
+        {
+          "question": "What is Caspian's lucky number?",
+          "expect": "601"
+        },
+        {
+          "question": "What is the password to Caspian's workshop?",
+          "expect": "fable-tallow"
+        },
+        {
+          "question": "What is the name of Caspian's pet?",
+          "expect": "Halo"
+        },
+        {
+          "question": "Who is Caspian's rival?",
+          "expect": "Phaedra Corvane"
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "file": "pdfs/085-dorothea-zimmerling.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/085-dorothea-zimmerling.pdf",
+      "size_bytes": 4840,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Dorothea Zimmerling",
+        "role": "ring announcer",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Gruff but generous ring announcer of the Frostwall garrison on the northern border",
+        "traits": "gruff but generous",
+        "speech": "peppers everything with nautical metaphors",
+        "age": 65,
+        "hometown": "the Weeping Shoals",
+        "favorite_dish": "midnight seaweed crackers",
+        "pet_name": "Barnaby",
+        "pet_species": "goat",
+        "lucky_number": 878,
+        "password": "fable-zephyr",
+        "mentor": "Winifred Zimmerling",
+        "rival": "Rurik Kettleburn",
+        "friend": "Wilhelmina Corvane",
+        "goal": "to win the harvest fair for the fifth time",
+        "fear": "being forgotten",
+        "secret": "Dorothea once forged a letter of passage for a stranger who turned out to be a wanted person, and still keeps the copy."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Dorothea's favourite dish?",
+          "expect": "midnight seaweed crackers"
+        },
+        {
+          "question": "What is Dorothea's lucky number?",
+          "expect": "878"
+        },
+        {
+          "question": "What is the password to Dorothea's workshop?",
+          "expect": "fable-zephyr"
+        },
+        {
+          "question": "What is the name of Dorothea's pet?",
+          "expect": "Barnaby"
+        },
+        {
+          "question": "Who is Dorothea's rival?",
+          "expect": "Rurik Kettleburn"
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "file": "pdfs/086-emeric-fairweather.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/086-emeric-fairweather.pdf",
+      "size_bytes": 20039,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Emeric Fairweather",
+        "role": "innkeeper",
+        "setting": "the Emerald Court of Ardenne",
+        "tagline": "Blunt, practical and allergic to small talk innkeeper of the Emerald Court of Ardenne",
+        "traits": "blunt, practical and allergic to small talk",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 43,
+        "hometown": "Kingsreach",
+        "favorite_dish": "charred peach hand pies",
+        "pet_name": "Dumpling",
+        "pet_species": "beetle",
+        "lucky_number": 187,
+        "password": "brine-cinder",
+        "mentor": "Xanthe Blackwater",
+        "rival": "Sunniva Jessop",
+        "friend": "Xiomara Grimsby",
+        "goal": "to reopen the shop their parents lost",
+        "fear": "the bells at midnight",
+        "secret": "Emeric sold a family heirloom to pay for Xiomara Grimsby's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Emeric's favourite dish?",
+          "expect": "charred peach hand pies"
+        },
+        {
+          "question": "What is Emeric's lucky number?",
+          "expect": "187"
+        },
+        {
+          "question": "What is the password to Emeric's workshop?",
+          "expect": "brine-cinder"
+        },
+        {
+          "question": "What is the name of Emeric's pet?",
+          "expect": "Dumpling"
+        },
+        {
+          "question": "Who is Emeric's rival?",
+          "expect": "Sunniva Jessop"
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "file": "pdfs/087-freya-lindqvist.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/087-freya-lindqvist.pdf",
+      "size_bytes": 11937,
+      "pages": 4,
+      "facts_extractable": true,
+      "has_cjk_section": true,
+      "target_pages": 3,
+      "character": {
+        "name": "Freya Lindqvist",
+        "role": "quartermaster",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Cynical mentor who wants to be proven wrong quartermaster of Lumen Falls, a small mountain town in 1987",
+        "traits": "cynical mentor who wants to be proven wrong",
+        "speech": "uses trade jargon and then patiently explains it",
+        "age": 44,
+        "hometown": "the Copper Coast",
+        "favorite_dish": "the tavern's mushroom dumplings",
+        "pet_name": "Velvet",
+        "pet_species": "parrot",
+        "lucky_number": 221,
+        "password": "yarrow-juniper",
+        "mentor": "Yannick Fairweather",
+        "rival": "Teodora Oakhurst",
+        "friend": "Yusuf Achterberg",
+        "goal": "to see the ocean once",
+        "fear": "birds indoors",
+        "secret": "Freya sold a family heirloom to pay for Yusuf Achterberg's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Freya's favourite dish?",
+          "expect": "the tavern's mushroom dumplings"
+        },
+        {
+          "question": "What is Freya's lucky number?",
+          "expect": "221"
+        },
+        {
+          "question": "What is the password to Freya's workshop?",
+          "expect": "yarrow-juniper"
+        },
+        {
+          "question": "What is the name of Freya's pet?",
+          "expect": "Velvet"
+        },
+        {
+          "question": "Who is Freya's rival?",
+          "expect": "Teodora Oakhurst"
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "file": "pdfs/088-gustav-achterberg.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/088-gustav-achterberg.pdf",
+      "size_bytes": 20947,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Gustav Achterberg",
+        "role": "ring announcer",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Boisterous, generous, easily bored ring announcer of the Drowned Library beneath Old Cassilon",
+        "traits": "boisterous, generous, easily bored",
+        "speech": "speaks in short, clipped sentences and dislikes being rushed",
+        "age": 48,
+        "hometown": "the Ninth Terrace",
+        "favorite_dish": "hand-rolled green tomato chutney",
+        "pet_name": "Tuesday",
+        "pet_species": "mouse",
+        "lucky_number": 422,
+        "password": "cove-oak",
+        "mentor": "Zelda Blackwater",
+        "rival": "Torvald Norwood",
+        "friend": "Zora Duskmere",
+        "goal": "to keep Zora Duskmere out of trouble for one full season",
+        "fear": "being forgotten",
+        "secret": "Gustav has never told Zelda Blackwater that the famous 'accident' was deliberate."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Gustav's favourite dish?",
+          "expect": "hand-rolled green tomato chutney"
+        },
+        {
+          "question": "What is Gustav's lucky number?",
+          "expect": "422"
+        },
+        {
+          "question": "What is the password to Gustav's workshop?",
+          "expect": "cove-oak"
+        },
+        {
+          "question": "What is the name of Gustav's pet?",
+          "expect": "Tuesday"
+        },
+        {
+          "question": "Who is Gustav's rival?",
+          "expect": "Torvald Norwood"
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "file": "pdfs/089-hyacinth-everhart.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/089-hyacinth-everhart.pdf",
+      "size_bytes": 6281,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Hyacinth Everhart",
+        "role": "radio operator",
+        "setting": "Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "tagline": "Hot-tempered, quick to forgive radio operator of Kepler Station, a mining outpost orbiting the gas giant Oryn",
+        "traits": "hot-tempered, quick to forgive",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 73,
+        "hometown": "Redgate",
+        "favorite_dish": "festival goat cheese tart",
+        "pet_name": "Sable",
+        "pet_species": "owl",
+        "lucky_number": 728,
+        "password": "linen-jade",
+        "mentor": "Amadou Lindqvist",
+        "rival": "Mara Ravensworth",
+        "friend": "Anouk Stillwater",
+        "goal": "to be trusted by the Oryn Extraction Consortium again",
+        "fear": "a knock at the door after dark",
+        "secret": "Hyacinth was the one who let the animals loose during the festival three years ago."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Hyacinth's favourite dish?",
+          "expect": "festival goat cheese tart"
+        },
+        {
+          "question": "What is Hyacinth's lucky number?",
+          "expect": "728"
+        },
+        {
+          "question": "What is the password to Hyacinth's workshop?",
+          "expect": "linen-jade"
+        },
+        {
+          "question": "What is the name of Hyacinth's pet?",
+          "expect": "Sable"
+        },
+        {
+          "question": "Who is Hyacinth's rival?",
+          "expect": "Mara Ravensworth"
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "file": "pdfs/090-ignatius-marchetti.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/090-ignatius-marchetti.pdf",
+      "size_bytes": 6484,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Ignatius Marchetti",
+        "role": "archivist",
+        "setting": "the Dust Road caravan routes",
+        "tagline": "Restless and curious archivist of the Dust Road caravan routes",
+        "traits": "restless and curious",
+        "speech": "compliments people before disagreeing with them",
+        "age": 58,
+        "hometown": "Fennick",
+        "favorite_dish": "grandmother's pear and blue cheese salad",
+        "pet_name": "Barnaby",
+        "pet_species": "parrot",
+        "lucky_number": 234,
+        "password": "velvet-north",
+        "mentor": "Brigid Norwood",
+        "rival": "Ysolde Fairweather",
+        "friend": "Baptiste Hollowell",
+        "goal": "to build a boat with no nails in it",
+        "fear": "being forgotten",
+        "secret": "Ignatius once turned down an offer from the Caravaners' Compact that would have made them rich, and wonders about it nightly."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Ignatius's favourite dish?",
+          "expect": "grandmother's pear and blue cheese salad"
+        },
+        {
+          "question": "What is Ignatius's lucky number?",
+          "expect": "234"
+        },
+        {
+          "question": "What is the password to Ignatius's workshop?",
+          "expect": "velvet-north"
+        },
+        {
+          "question": "What is the name of Ignatius's pet?",
+          "expect": "Barnaby"
+        },
+        {
+          "question": "Who is Ignatius's rival?",
+          "expect": "Ysolde Fairweather"
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "file": "pdfs/091-juniper-stillwater.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/091-juniper-stillwater.pdf",
+      "size_bytes": 6188,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Juniper Stillwater",
+        "role": "street medic",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Stubborn, principled and tired street medic of the harbor town of Saltmarsh",
+        "traits": "stubborn, principled and tired",
+        "speech": "speaks in short, clipped sentences and dislikes being rushed",
+        "age": 69,
+        "hometown": "Kingsreach",
+        "favorite_dish": "the tavern's smoked pepper hummus",
+        "pet_name": "Turnip",
+        "pet_species": "owl",
+        "lucky_number": 899,
+        "password": "thistle-vane",
+        "mentor": "Caspian Zimmerling",
+        "rival": "Bram Norwood",
+        "friend": "Calloway Castellan",
+        "goal": "to pay off the last of the debt by winter",
+        "fear": "owing anything to the Harbormasters' Guild",
+        "secret": "Juniper is terrified of deep water and hides it with jokes."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Juniper's favourite dish?",
+          "expect": "the tavern's smoked pepper hummus"
+        },
+        {
+          "question": "What is Juniper's lucky number?",
+          "expect": "899"
+        },
+        {
+          "question": "What is the password to Juniper's workshop?",
+          "expect": "thistle-vane"
+        },
+        {
+          "question": "What is the name of Juniper's pet?",
+          "expect": "Turnip"
+        },
+        {
+          "question": "Who is Juniper's rival?",
+          "expect": "Bram Norwood"
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "file": "pdfs/092-kenji-marchetti.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/092-kenji-marchetti.pdf",
+      "size_bytes": 6404,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Kenji Marchetti",
+        "role": "tutor",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Methodical and secretly sentimental tutor of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "methodical and secretly sentimental",
+        "speech": "mutters prices and measurements while thinking",
+        "age": 38,
+        "hometown": "the Mirefold",
+        "favorite_dish": "twice-cooked clam fritters",
+        "pet_name": "Tuesday",
+        "pet_species": "tortoise",
+        "lucky_number": 167,
+        "password": "oak-reed",
+        "mentor": "Dorothea Zimmerling",
+        "rival": "Kestrel Hartwell",
+        "friend": "Delphine Norwood",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "letting Delphine Norwood down",
+        "secret": "Kenji writes poetry under the pen name 'The Oak' and has a small, devoted readership."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Kenji's favourite dish?",
+          "expect": "twice-cooked clam fritters"
+        },
+        {
+          "question": "What is Kenji's lucky number?",
+          "expect": "167"
+        },
+        {
+          "question": "What is the password to Kenji's workshop?",
+          "expect": "oak-reed"
+        },
+        {
+          "question": "What is the name of Kenji's pet?",
+          "expect": "Tuesday"
+        },
+        {
+          "question": "Who is Kenji's rival?",
+          "expect": "Kestrel Hartwell"
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "file": "pdfs/093-lucienne-brightmoor.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/093-lucienne-brightmoor.pdf",
+      "size_bytes": 6294,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Lucienne Brightmoor",
+        "role": "quartermaster",
+        "setting": "the harbor town of Saltmarsh",
+        "tagline": "Dreamy and forgetful quartermaster of the harbor town of Saltmarsh",
+        "traits": "dreamy and forgetful",
+        "speech": "compliments people before disagreeing with them",
+        "age": 47,
+        "hometown": "Caldera Row",
+        "favorite_dish": "festival cold buckwheat noodles",
+        "pet_name": "Velvet",
+        "pet_species": "lizard",
+        "lucky_number": 125,
+        "password": "wick-birch",
+        "mentor": "Emeric Fairweather",
+        "rival": "Oduya Underhill",
+        "friend": "Eamon Blackwater",
+        "goal": "to teach one apprentice who actually listens",
+        "fear": "owing anything to the Harbormasters' Guild",
+        "secret": "Lucienne has a sibling nobody in the harbor town of Saltmarsh knows about, living quietly in Caldera Row."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Lucienne's favourite dish?",
+          "expect": "festival cold buckwheat noodles"
+        },
+        {
+          "question": "What is Lucienne's lucky number?",
+          "expect": "125"
+        },
+        {
+          "question": "What is the password to Lucienne's workshop?",
+          "expect": "wick-birch"
+        },
+        {
+          "question": "What is the name of Lucienne's pet?",
+          "expect": "Velvet"
+        },
+        {
+          "question": "Who is Lucienne's rival?",
+          "expect": "Oduya Underhill"
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "file": "pdfs/094-magnus-merriwether.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/094-magnus-merriwether.pdf",
+      "size_bytes": 6348,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Magnus Merriwether",
+        "role": "tax collector",
+        "setting": "Lumen Falls, a small mountain town in 1987",
+        "tagline": "Competitive about everything tax collector of Lumen Falls, a small mountain town in 1987",
+        "traits": "competitive about everything",
+        "speech": "tells long stories that circle back to the point eventually",
+        "age": 21,
+        "hometown": "Verity Falls",
+        "favorite_dish": "festival smoked pepper hummus",
+        "pet_name": "Cinder",
+        "pet_species": "lizard",
+        "lucky_number": 355,
+        "password": "thorn-wick",
+        "mentor": "Freya Lindqvist",
+        "rival": "Fenwick Falkenrath",
+        "friend": "Farida Marchetti",
+        "goal": "to map every path through the Falls Diner",
+        "fear": "the bells at midnight",
+        "secret": "Magnus has a sibling nobody in Lumen Falls, a small mountain town in 1987 knows about, living quietly in Verity Falls."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Magnus's favourite dish?",
+          "expect": "festival smoked pepper hummus"
+        },
+        {
+          "question": "What is Magnus's lucky number?",
+          "expect": "355"
+        },
+        {
+          "question": "What is the password to Magnus's workshop?",
+          "expect": "thorn-wick"
+        },
+        {
+          "question": "What is the name of Magnus's pet?",
+          "expect": "Cinder"
+        },
+        {
+          "question": "Who is Magnus's rival?",
+          "expect": "Fenwick Falkenrath"
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "file": "pdfs/095-noor-thornbury.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/095-noor-thornbury.pdf",
+      "size_bytes": 4797,
+      "pages": 2,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 1,
+      "character": {
+        "name": "Noor Thornbury",
+        "role": "street medic",
+        "setting": "Bellwether Farms, an agricultural cooperative on Mars",
+        "tagline": "Sardonic with a soft center street medic of Bellwether Farms, an agricultural cooperative on Mars",
+        "traits": "sardonic with a soft center",
+        "speech": "peppers everything with nautical metaphors",
+        "age": 74,
+        "hometown": "Two Rivers",
+        "favorite_dish": "hand-rolled pickled plums",
+        "pet_name": "Fidget",
+        "pet_species": "lizard",
+        "lucky_number": 331,
+        "password": "willow-amber",
+        "mentor": "Gustav Achterberg",
+        "rival": "Liora Grimsby",
+        "friend": "Gideon Corvane",
+        "goal": "to reopen the shop their parents lost",
+        "fear": "losing their sense of smell",
+        "secret": "Noor secretly funds an orphanage in Two Rivers and would be mortified if anyone found out."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Noor's favourite dish?",
+          "expect": "hand-rolled pickled plums"
+        },
+        {
+          "question": "What is Noor's lucky number?",
+          "expect": "331"
+        },
+        {
+          "question": "What is the password to Noor's workshop?",
+          "expect": "willow-amber"
+        },
+        {
+          "question": "What is the name of Noor's pet?",
+          "expect": "Fidget"
+        },
+        {
+          "question": "Who is Noor's rival?",
+          "expect": "Liora Grimsby"
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "file": "pdfs/096-olwen-brightmoor.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/096-olwen-brightmoor.pdf",
+      "size_bytes": 6228,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Olwen Brightmoor",
+        "role": "pearl diver",
+        "setting": "the traveling Circus of Marrow and Light",
+        "tagline": "Stubborn, principled and tired pearl diver of the traveling Circus of Marrow and Light",
+        "traits": "stubborn, principled and tired",
+        "speech": "ends sentences with 'you understand?'",
+        "age": 77,
+        "hometown": "Stonebridge",
+        "favorite_dish": "festival wild rice pilaf",
+        "pet_name": "Barnaby",
+        "pet_species": "gecko",
+        "lucky_number": 450,
+        "password": "anvil-cedar",
+        "mentor": "Hyacinth Everhart",
+        "rival": "Hamish Oakhurst",
+        "friend": "Halcyon Duskmere",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Olwen writes poetry under the pen name 'The Anvil' and has a small, devoted readership."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Olwen's favourite dish?",
+          "expect": "festival wild rice pilaf"
+        },
+        {
+          "question": "What is Olwen's lucky number?",
+          "expect": "450"
+        },
+        {
+          "question": "What is the password to Olwen's workshop?",
+          "expect": "anvil-cedar"
+        },
+        {
+          "question": "What is the name of Olwen's pet?",
+          "expect": "Barnaby"
+        },
+        {
+          "question": "Who is Olwen's rival?",
+          "expect": "Hamish Oakhurst"
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "file": "pdfs/097-phaedra-corvane.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/097-phaedra-corvane.pdf",
+      "size_bytes": 20208,
+      "pages": 10,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 7,
+      "character": {
+        "name": "Phaedra Corvane",
+        "role": "archivist",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Stubborn, principled and tired archivist of the Frostwall garrison on the northern border",
+        "traits": "stubborn, principled and tired",
+        "speech": "answers a question with a question before giving a real answer",
+        "age": 72,
+        "hometown": "Oldbridge",
+        "favorite_dish": "festival smoked trout",
+        "pet_name": "Amos",
+        "pet_species": "rabbit",
+        "lucky_number": 115,
+        "password": "moss-velvet",
+        "mentor": "Ignatius Marchetti",
+        "rival": "Zeph Corvane",
+        "friend": "Imogen Ironside",
+        "goal": "to be forgotten by the people who remember the fire",
+        "fear": "the far side of the east rampart",
+        "secret": "Phaedra owes Zeph Corvane a debt of 38 iron pennies that neither of them mentions."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Phaedra's favourite dish?",
+          "expect": "festival smoked trout"
+        },
+        {
+          "question": "What is Phaedra's lucky number?",
+          "expect": "115"
+        },
+        {
+          "question": "What is the password to Phaedra's workshop?",
+          "expect": "moss-velvet"
+        },
+        {
+          "question": "What is the name of Phaedra's pet?",
+          "expect": "Amos"
+        },
+        {
+          "question": "Who is Phaedra's rival?",
+          "expect": "Zeph Corvane"
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "file": "pdfs/098-rurik-kettleburn.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/098-rurik-kettleburn.pdf",
+      "size_bytes": 6519,
+      "pages": 3,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 2,
+      "character": {
+        "name": "Rurik Kettleburn",
+        "role": "innkeeper",
+        "setting": "Neon Meridian, a rain-soaked megacity",
+        "tagline": "Shy, brilliant and defensive innkeeper of Neon Meridian, a rain-soaked megacity",
+        "traits": "shy, brilliant and defensive",
+        "speech": "gives directions by landmark, never by street name",
+        "age": 26,
+        "hometown": "the Ninth Terrace",
+        "favorite_dish": "hand-rolled oat and ale bread",
+        "pet_name": "Barnaby",
+        "pet_species": "mouse",
+        "lucky_number": 883,
+        "password": "copper-mirror",
+        "mentor": "Juniper Stillwater",
+        "rival": "Ingrid Thornbury",
+        "friend": "Jorah Zimmerling",
+        "goal": "to be trusted by the Halcyon Syndicate again",
+        "fear": "losing their sense of smell",
+        "secret": "Rurik sold a family heirloom to pay for Jorah Zimmerling's medicine and told everyone it was stolen."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Rurik's favourite dish?",
+          "expect": "hand-rolled oat and ale bread"
+        },
+        {
+          "question": "What is Rurik's lucky number?",
+          "expect": "883"
+        },
+        {
+          "question": "What is the password to Rurik's workshop?",
+          "expect": "copper-mirror"
+        },
+        {
+          "question": "What is the name of Rurik's pet?",
+          "expect": "Barnaby"
+        },
+        {
+          "question": "Who is Rurik's rival?",
+          "expect": "Ingrid Thornbury"
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "file": "pdfs/099-sunniva-jessop.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/099-sunniva-jessop.pdf",
+      "size_bytes": 22952,
+      "pages": 11,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 8,
+      "character": {
+        "name": "Sunniva Jessop",
+        "role": "glassblower",
+        "setting": "the Drowned Library beneath Old Cassilon",
+        "tagline": "Fiercely protective of newcomers glassblower of the Drowned Library beneath Old Cassilon",
+        "traits": "fiercely protective of newcomers",
+        "speech": "compliments people before disagreeing with them",
+        "age": 54,
+        "hometown": "the Ninth Terrace",
+        "favorite_dish": "grandmother's apple and onion hash",
+        "pet_name": "Umbra",
+        "pet_species": "raven",
+        "lucky_number": 566,
+        "password": "saffron-fern",
+        "mentor": "Kenji Marchetti",
+        "rival": "Cassius Nightingale",
+        "friend": "Kwame Grimsby",
+        "goal": "to retire somewhere warm with Umbra",
+        "fear": "a knock at the door after dark",
+        "secret": "Sunniva writes poetry under the pen name 'The Saffron' and has a small, devoted readership."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Sunniva's favourite dish?",
+          "expect": "grandmother's apple and onion hash"
+        },
+        {
+          "question": "What is Sunniva's lucky number?",
+          "expect": "566"
+        },
+        {
+          "question": "What is the password to Sunniva's workshop?",
+          "expect": "saffron-fern"
+        },
+        {
+          "question": "What is the name of Sunniva's pet?",
+          "expect": "Umbra"
+        },
+        {
+          "question": "Who is Sunniva's rival?",
+          "expect": "Cassius Nightingale"
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "file": "pdfs/100-teodora-oakhurst.pdf",
+      "url": "https://raw.githubusercontent.com/karen93shieh/estuary-batch-test-pdfs/main/pdfs/100-teodora-oakhurst.pdf",
+      "size_bytes": 63563,
+      "pages": 32,
+      "facts_extractable": true,
+      "has_cjk_section": false,
+      "target_pages": 22,
+      "character": {
+        "name": "Teodora Oakhurst",
+        "role": "tram conductor",
+        "setting": "the Frostwall garrison on the northern border",
+        "tagline": "Stubborn, principled and tired tram conductor of the Frostwall garrison on the northern border",
+        "traits": "stubborn, principled and tired",
+        "speech": "speaks in short, clipped sentences and dislikes being rushed",
+        "age": 45,
+        "hometown": "the Ninth Terrace",
+        "favorite_dish": "hand-rolled roast root vegetables",
+        "pet_name": "Bramble",
+        "pet_species": "ferret",
+        "lucky_number": 619,
+        "password": "jade-fable",
+        "mentor": "Lucienne Brightmoor",
+        "rival": "Nkechi Irongate",
+        "friend": "Leocadia Duskmere",
+        "goal": "to teach one apprentice who actually listens",
+        "fear": "crowds that go quiet all at once",
+        "secret": "Teodora keeps a list of everyone who has ever been kind to them, and repays each one eventually."
+      },
+      "retrieval_checks": [
+        {
+          "question": "What is Teodora's favourite dish?",
+          "expect": "hand-rolled roast root vegetables"
+        },
+        {
+          "question": "What is Teodora's lucky number?",
+          "expect": "619"
+        },
+        {
+          "question": "What is the password to Teodora's workshop?",
+          "expect": "jade-fable"
+        },
+        {
+          "question": "What is the name of Teodora's pet?",
+          "expect": "Bramble"
+        },
+        {
+          "question": "Who is Teodora's rival?",
+          "expect": "Nkechi Irongate"
+        }
+      ]
+    }
+  ]
+}
